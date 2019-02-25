@@ -1,0 +1,251 @@
+/* CSS Document */
+
+html {
+   height: 1200px;
+}
+
+body {
+	width: 1050px;
+	margin: auto;
+	height: 100%;
+	background-repeat: repeat-x;
+	background-image: url(../images/backgrounds/EAH_background.jpg);
+	background-position: center top;
+	background-color: #651515;
+}
+
+
+#header {
+	height: 140px;
+	width: 1050px;
+	padding-top: 2px;
+	/*background-color:#520E0E*/
+}
+
+
+#menu {
+	height: 30px;
+	width: 1050px;
+	margin: 0;
+
+}
+li.hidden{
+	visibility: hidden;
+}
+#main {
+	width: 1050px;
+	height: 100%;
+	background-color:#651515
+	/*background-image: url(Images/Web.png);
+		background-repeat: no-repeat;*/
+	float: left;
+	overflow: auto;
+}
+#tabcontents {
+	width: 100px;
+	height: 100%;
+	background-color:#651515
+	float: left;
+	overflow: auto;
+}
+
+#p1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	line-height: 150%;
+	padding-right: 150px;
+	padding-left: 150px;
+	text-align: justify;
+	position: relative;
+	color: #ffffff;
+	font-weight: 500;
+	overflow: auto;
+	padding-top: 25px;
+	height: 100%;
+	clear: both;
+}
+
+div.tabcontents {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	/*font-family: Georgia, "Times New Roman", Times, serif; */
+	font-size: 13px;
+	line-height: 150%;
+	padding-right: 410px;
+	padding-left: 75px;
+	text-align: left;
+	position: relative;
+
+	background-color: #ffffff;
+	background-image: url(../images/Web.png) ;
+	background-size: 75%;
+	background-repeat: no-repeat;
+	background-position: right 50px;
+
+
+	font-weight: 500;
+	overflow: auto;
+	padding-top: 25px;
+	height: auto;
+	min-height: 900px;
+	clear: both;
+	overflow: hidden;
+
+
+
+	/*color:#651515*/
+	color:#000000
+}
+
+div.noscroll {
+	overflow:hidden;
+}
+
+#menu ul {
+margin: 0;
+list-style: none;
+padding: 0;
+}
+
+#menu li {
+float: left;
+}
+#menu a:hover {
+	color: #000000;
+	background-image: url(../images/backgrounds/nav2.png);
+}
+#menu li a.active {
+	width: 150px;
+	background-image: url(../images/backgrounds/nav2.png);
+}
+
+#menu li.selected a {
+	width: 150px;
+	color: #000000;
+	background-image: url(../images/backgrounds/nav2.png);
+}
+
+#menu li a.hidden {
+	width: 0px;
+	display: hidden;
+}
+
+#menu li a.sub {
+	background-color: #651515
+}
+
+
+#menu a {
+	text-decoration: none;
+	display: block;
+	width: 150px;
+	text-align: center;
+	color: #ffffff;
+	font-style: normal;
+	font-weight: bolder;
+	height: 25px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-left: 0px;
+	background-image: url(../images/backgrounds/nav1.png);
+	border-top-width: thin;
+	border-bottom-width: thin;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-top-color: #ffffff;
+	border-bottom-color: #ffffff;
+}
+
+
+
+#link a {
+	width: 50px;
+	color:  #000;
+	font-size: 13px;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color:  #000;
+}
+
+#link a:hover {
+	color:#ffffff;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom-width: thin;
+	border-bottom-style: solid;
+	border-bottom-color: #ffffff;
+	font-size: 14px;
+}
+.link a {
+	width: 50px;
+	color:  #ffffff;
+	font-size: 13px;
+	font-weight: 400;
+	text-decoration: underline;
+
+}
+
+.link a:hover {
+	color:#060;
+	font-weight: 400;
+	text-decoration: underline;
+	font-size: 13px;
+}
+#link1 a {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#ffffff;
+	text-align: center;
+	text-decoration: underline;
+}
+#link1 a:hover {
+	color:#ffffff;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+#link2 a {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	color:#ffffff;
+	text-decoration: underline;
+	width: 980px;
+	text-align: right;
+}
+#link2 a:hover {
+	color:#060;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+.link3 a {
+	text-decoration: underline;
+	color:#ffffff;
+	font-weight: bold;
+}
+.link3 a:hover {
+	text-decoration: underline;
+	color: #060;
+}
+
+
+.link a {
+	width: 1050px;
+}
+
+a.handig{
+	color:#651515;
+	font-weight:normal;
+
+}
+
