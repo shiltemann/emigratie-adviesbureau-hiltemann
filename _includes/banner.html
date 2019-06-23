@@ -1,9 +1,41 @@
 
-<section id="banner" data-vide-bg="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}" data-vide-options="posterType: jpg, loop: true, muted: false, position: 50% 50%">
-  <div class="wrapper">
-    <div class="content">
-      <h1 class="title">{% if site.banner-title %}{{ site.banner-title }}{% else %}Enjoy Freedom{% endif %}</h1>
+<!--<section id="banner" data-vide-bg="{{site.baseurl}}/assets/video/{% if site.video %}{{ site.video }}{% endif %}" data-vide-options="posterType: jpg, loop: true, muted: false, position: 50% 50%">-->
+<!--<section id="banner">-->
+
+    <!-- carousel -->
+    <section id="banner" class="carousel slide carousel-fade" style="z-index: -999;" data-ride="carousel">
+
+      <!-- Indicators -->
+      <ul class="carousel-indicators">
+        <li data-target="#demo" data-slide-to="0" class="active"></li>
+        <li data-target="#demo" data-slide-to="1"></li>
+      </ul>
+
+      <!-- The slideshow -->
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="assets/img/banner1.jpg" alt="Los Angeles">
+        </div>
+        <div class="carousel-item">
+          <img src="assets/img/banner2.jpg" alt="Chicago">
+        </div>
+      </div>
+
+      <!-- Left and right controls -->
+      <a class="carousel-control-prev" href="#demo" data-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+      </a>
+      <a class="carousel-control-next" href="#demo" data-slide="next">
+        <span class="carousel-control-next-icon"></span>
+      </a>
+
+    <!--</div>-->
+    <div class="wrapper">
+    <div class="content" style="position:absolute; top:5px; z-index:999;">
+      <h1 class="title">{% if site.banner-title %}{{ site.banner-title }}{% else %}Emigratie Adviesbureau Hiltemann{% endif %}</h1>
       <h2 class="sub_title">{% if site.banner-desc %}{{ site.banner-desc }}{% else %}"A journey of a thousand miles begins with a single step". — Lao Tzu{% endif %}</h2>
     </div>
   </div>
 </section> <!-- End Section Banner -->
+
+

@@ -3983,6 +3983,7 @@ cite {
 #banner .content .title {
   font-size: 3.5rem;
   margin: 0 0 1rem 0;
+  position: absolute;
 }
 
 #banner .content .sub_title {
@@ -4914,4 +4915,13 @@ cite {
     padding: 0.8rem;
     font-size: 1.2rem;
   }
+}
+
+
+#intro{
+  color: white;
+  font-size: 2em;
+  padding: 0 1.85rem;
+  margin: 0 auto;
+
 }
