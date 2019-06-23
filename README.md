@@ -1,3 +1,35 @@
+# voor vontje
+
+rechtermuisknop -> "open terminal here"
+
+`git pull`    (voor je begint, altijd even nieuwe veranderingen binnenhalen)
+
+`jekyll serve`    (website preview)
+
+`firefox localhost:4000`  (openen in browser)   
+
+
+## veranderingen maken
+
+`git status`  (om te zien wat er verandert is)
+`git add <file>` (om veranderde files toe te voegen voor commit, gebruik tab for autocompletion)
+                add zoveel files als je wil
+
+`git commit -m "een beschrijving"`  om commit te maken
+
+`git push`  om commit naar github te sturen
+
+
+
+
+
+
+
+
+
+
+
+
 # Bef is a responsive jekyll theme
 
 Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
