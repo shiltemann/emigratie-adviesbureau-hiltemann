@@ -2,7 +2,7 @@
 layout: country
 title: "China & Taiwan"
 country: China-en-Taiwan
-img: Canada.jpg # Add image post (optional)
+img: ChinaShanghai.jpeg # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
