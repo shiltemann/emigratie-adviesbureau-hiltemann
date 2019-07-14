@@ -4,6 +4,8 @@ title: "Working Holiday"
 img: CanadaTorontoSkyline.jpg # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
+country: Canada
+
 ---
 Working Holiday in Canada voor jongeren vanaf 18 t/m 30
 Dit is de ideale manier om een werkvisum te krijgen om stage te lopen in Canada maar ook geschikt voor jongeren die gewoon op vakantie willen met de mogelijkheid om legaal te werken.

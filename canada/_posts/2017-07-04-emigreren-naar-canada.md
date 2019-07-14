@@ -4,6 +4,8 @@ title: "Emigreren"
 img: CanadaEmigreren.jpg # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
+country: Canada
+
 ---
 Beroepenlijsten voor emigreren naar Canada als kennismigrant<br/>
 Heeft u een relevante diploma en minstens een jaar ervaring in een van de beroepen op de Priority Occupations List (POL) dat Canada hanteert voor kennismigranten (Skilled Workers)? Bent u ook vloeiend in Engels en/of Frans en jonger dan 35? Dan komt u zeer waarschijnlijk in aanmerking voor een permanente verblijfsvergunning voor Canada onder de Federal Skilled Worker Category.
