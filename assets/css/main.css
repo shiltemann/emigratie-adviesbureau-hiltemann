@@ -3973,7 +3973,10 @@ cite {
 
 #banner .carousel-item {
   max-height: 65vh;
-  width: auto;
+}
+
+#banner .carousel-item img {
+  width: 100%;
 }
 
 #banner .content {
