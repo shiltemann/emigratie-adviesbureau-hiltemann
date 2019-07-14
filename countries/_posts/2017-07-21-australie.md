@@ -1,6 +1,6 @@
 ---
 layout: country
-title: "Australie"
+title: "Australië"
 country: australie
 img: AustraliaSydneySkyline2.jpg # Add image post (optional)
 date: 2017-07-21 12:52:00 +0300
