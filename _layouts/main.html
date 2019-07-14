@@ -3,45 +3,87 @@ layout: default
 ---
   {% include header.html %}
 
-  {% include banner.html %}<br/>
+  {% include banner.html %}
 
-  <main class="page-content" aria-label="Content">
+  <article class="post intro">
+  <header></header>
+  <div class="entry_content">
+  <section class="intro cf">
+    EAH zorgt al meer dan 20 jaar voor verantwoorde begeleiding van particulieren en bedrijven die een visum nodig hebben om te werken, studeren of permanent te wonen in Australië, Canada, Nieuw-Zeeland, de Verenigde Staten, of China Japan en Taiwan. Ook voor overige landen bieden wij op-maat begeleiding.
 
-  <div id="intro">
-  <p>EAH zorgt al meer dan 20 jaar voor verantwoorde begeleiding van particulieren en bedrijven die een visum nodig hebben om te werken, studeren of permanent te wonen in Australië, Canada, Nieuw-Zeeland, de Verenigde Staten, of China Japan en Taiwan. Ook voor overige landen bieden wij op-maat begeleiding..</p>
-
-  <p> EAH biedt onder andere de volgende diensten:<p/>
-
-  <p> Volledige Visum Aanvraag<br/>
-      Efficiënte begeleiding en een gerichte belangenbehartiging bij de visumaanvraag in het kader van de wetgeving van het betreffende land.<p/>
-
-  <p> Visum Check<br/>
-      Wilt u weten of u in aanmerking komt voor emigratie naar Australie, Canada, Nieuw-Zeeland of de Verenigde Staten? Stuur vrijblijvend uw CV op, en wij beoordelen uw kansen binnen een week.<p/>
-
-  <p> Begeleiding voor bedrijven<br/>
-      Begeleiding bij het uitsturen van werknemers, het opzetten van een bedrijf, of zaken doen in het buitenland.<p/>
-
-  <p> Beperkte begeleiding voor doe-het-zelvers<br/>
-      Doet u de aanvraag liever zelf? Wij bieden ook op-maat begeleiding op uurbasis.<p/>
-
-  <p> Overige landen<br/>
-      Wij bieden op-maat advies bij verkenning van uw kansen om te kunnen emigreren naar overige bestemmingen. We zoeken alles voor u uit en helpen op een ad-hoc basis. We stellen samen met u een traject en tarief vast.
-<p/>
-
-  <p> Heeft u interesse in een van onze diensten? Neem dan *contact* met ons op.<p/>
-
-  <p> Of klik voor meer informatie hieronder op het gewenste land.<p/>
-
-
+  </section>
   </div>
+  <!--</article>-->
+
   <section class="chapters cf">
       <div class="wrapper flex-row">
       {{ content }}
       </div>
   </section>
-  </main>
-  {% include newsletter.html %}
 
-  {% include pagination.html %}
+  <main class="page-content">
+  <!--<article class="post">-->
+  <header></header>
+  <div class="entry_content">
+
+  <section>
+  <h2> EAH biedt onder andere de volgende diensten</h2>
+
+  <h3> Volledige Visum Aanvraag</h3>
+  <p>Efficiënte begeleiding en een gerichte belangenbehartiging bij de visumaanvraag in het kader van de wetgeving van het betreffende land.</p>
+
+  <h3> Visum Check</h3>
+  <p> Wilt u weten of u in aanmerking komt voor emigratie naar Australie, Canada, Nieuw-Zeeland of de Verenigde Staten? Stuur vrijblijvend uw CV op, en wij beoordelen uw kansen binnen een week.</p>
+
+  <h3>Begeleiding voor bedrijven</h3>
+  <p>Begeleiding bij het uitsturen van werknemers, het opzetten van een bedrijf, of zaken doen in het buitenland.<p/>
+
+  <h3>Beperkte begeleiding voor doe-het-zelvers</h3>
+  <p>Doet u de aanvraag liever zelf? Wij bieden ook op-maat begeleiding op uurbasis.<p/>
+
+  <h3> Overige landen</h3>
+  <p>Wij bieden op-maat advies bij verkenning van uw kansen om te kunnen emigreren naar overige bestemmingen. We zoeken alles voor u uit en helpen op een ad-hoc basis. We stellen samen met u een traject en tarief vast.
+</p>
+
+  <h3>Meer Informatie? </h3>
+  <p> Heeft u interesse in een van onze diensten? Neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op.<p/>
+
+  <p> Of klik hierboven op het gewenste land voor meer informatie.<p/>
+
+  </section>
+  </article>
+
+  <section class="author cf">
+    <div class="post_wrapper">
+      <div class="author_image">
+        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
+      </div>
+      <div class="author_info">
+        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
+        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}La croix godard blue bottle, vape iceland fingerstache cronut single-origin coffee lyft snackwave normcore small batch.{% endif %}</p>
+        <div class="author_social">
+          {% if site.email %}
+          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
+          {% else %}
+          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:dwayne@example.com">dwayne@example.com</a></span>
+          {% endif %}
+
+          {% if site.phone %}
+          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></span>
+          {% else %}
+          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+496-169-65-57">(496)-169-6557</a></span>
+          {% endif %}
+
+          {% if site.website %}
+          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
+          {% else %}
+          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section> <!-- End Section Author -->
+
+  </main>
 
   {% include footer.html %}

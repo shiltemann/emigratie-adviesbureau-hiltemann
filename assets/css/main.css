@@ -3971,6 +3971,10 @@ cite {
   position: relative;
 }
 
+#banner .carousel-item {
+  max-height: 85vh;
+}
+
 #banner .content {
   padding: 12rem 0 12rem 0;
 }
@@ -4264,11 +4268,31 @@ cite {
   width: 960px;
   max-width: 90%;
   margin: 7rem auto 7rem;
+
+}
+
+.tagline {
+  width: 960px;
+  max-width: 90%;
+  color: white;
+  font-size: 1.2rem;
+  text-align: center;
 }
 
 .post {
   background-color: #ffffff;
   margin-bottom: 1.5rem;
+}
+
+.intro {
+  font-size: 1.5rem;
+  color: #525c65;
+  background-color: white;
+}
+
+.intro .entry_content{
+  width: 90%;
+  max-width: 1200px;
 }
 
 .post header {
@@ -4917,11 +4941,3 @@ cite {
   }
 }
 
-
-#intro{
-  color: white;
-  font-size: 2em;
-  padding: 0 1.85rem;
-  margin: 0 auto;
-
-}
