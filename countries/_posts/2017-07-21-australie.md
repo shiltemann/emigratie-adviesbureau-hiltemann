@@ -7,7 +7,7 @@ date: 2017-07-21 12:52:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Sweden, Travel, Forest]
 ---
-<p>Particulieren<br/>
+<p><strong>Particulieren</strong><br/>
 
 Australië is een "traditioneel" emigratie land voor Europeanen en staat open voor emigranten uit de hele wereld. Behalve uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging voert Australie ook een structureel en overzichtelijk aanmoedigingsbeleid voor kennismigranten.<br/>
 Wilt u nog niet permanent emigreren, maar wel een proefje krijgen van hoe het is om te wonen en werken in Australië? En bent u 18 t/m 30 jaar oud? Dan is het Working Holiday Program de ideale manier om een visum te krijgen waarmee u een jaar lang kunt werken of stage lopen in Australië. Ook geschikt voor jongeren die gewoon op vakantie willen met de mogelijkheid om legaal te werken als en wanneer zij dat willen.<br/>
@@ -15,6 +15,6 @@ Wilt u alleen op vakantie? Dan heeft u een ETA (Electronic Travel Authority) nod
 
 <p>Kijk hieronder voor meer informatie, of neem *contact* met ons op.<p/>
 
-<p>Bedrijven<br/>
+<p><strong>Bedrijven</strong><br/>
 
 Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning te krijgen, omdat bescherming van de arbeidsmarkt betekent dat staatsburgers en permanente inwoners van een land voorrang krijgen boven "buitenlanders", zijn er wel speciale faciliteiten ter bevordering van internationaal zaken doen. Wilt u werknemers uitsturen naar Australië? Klik dan hieronder op "personeel uitzenden" voor meer informatie, of neem *contact* met ons op.
