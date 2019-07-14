@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   visum nodig hebben om te werken, studeren of permanent te wonen in Australië, Canada
   Nieuw-Zeeland of de Verenigde Staten. Ook voor overige landen bieden wij op-maat
   begeleiding.
-permalink: ':title/'
+permalink: '/:categories/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.emigratie-adviesbureau-hiltemann.com" # the base hostname & protocol for your site, e.g. http://example.com
 
