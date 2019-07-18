@@ -4089,10 +4089,22 @@ cite {
 }
 
 .chapters .chapter_inner .chapter_title {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-weight: 400;
   margin: 0 0 0.5rem 0;
-  background-color: #0b0a0a99;
+}
+
+div.service, section.country:after {
+  position: absolute;
+  height: 30%;
+  top: 75%;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.chapters .service .chapter_inner .chapter_title {
+  font-size: 1.5rem;
 }
 
 .newsletter {
