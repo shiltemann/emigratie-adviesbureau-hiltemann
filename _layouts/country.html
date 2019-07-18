@@ -42,6 +42,7 @@ layout: default
     </div>
   </article> <!-- End Section Post -->
 
+  {% unless page.author == false %}
   <section class="author cf">
     <div class="post_wrapper">
       <div class="author_image">
@@ -72,7 +73,7 @@ layout: default
       </div>
     </div>
   </section> <!-- End Section Author -->
-
+  {% endunless %}
 </main> <!-- End Section Post Content -->
 
 {% include footer.html %}
