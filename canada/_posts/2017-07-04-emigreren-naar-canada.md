@@ -7,13 +7,17 @@ tag: [Travel, Blogging, Mountains]
 country: Canada
 
 ---
-Beroepenlijsten voor emigreren naar Canada als kennismigrant<br/>
-Heeft u een relevante diploma en minstens een jaar ervaring in een van de beroepen op de Priority Occupations List (POL) dat Canada hanteert voor kennismigranten (Skilled Workers)? Bent u ook vloeiend in Engels en/of Frans en jonger dan 35? Dan komt u zeer waarschijnlijk in aanmerking voor een permanente verblijfsvergunning voor Canada onder de Federal Skilled Worker Category.
-Ook als u ouder bent dan 35 zou u misschien in aanmerking komen, vooral als u een hoge opleiding hebt en/of of minstens 6 jaar ervaring in Skilled Work. Om meer te weten over de POL, zie dan *hier* de officiële site.
+<strong>Emigreren naar Canada via de beroepenlijst</strong><br/>
+Canada hanteert voor migranten een beroepenlijst genaamd de Priority Occupations List (POL). Heeft u een relevant diploma en minstens een jaar ervaring in een van de beroepen op de lijst? En bent u vloeiend in Engels en/of Frans en jonger dan 35 jaar? Dan komt u zeer waarschijnlijk in aanmerking voor een permanente verblijfsvergunning voor Canada onder de Federal Skilled Worker Category.
+Ook als u ouder bent dan 35 zou u misschien in aanmerking kunnen komen, vooral als u een hoge opleiding hebt en/of of minstens 6 jaar ervaring in wat Canada beschouwt als 'Skilled Work'. Om meer te weten over de beroepenlijst, zie *hier* de officiële site van de Cnadese overheid. U kunt dan kijken of uw beroep op de lijst staat.
 
-<p>Als uw beroep zich niet bevindt op de POL dan kunt misschien alsnog in aanmerking komen via de Federal Skilled Trades Class, speciaal voor vakmensen (link).<p/>
+<p>Wilt u meer weten over uw mogelijkheden om via de beroepenlijst te emigreren, <a href="{{ site.baseurl }}/contact">stuur ons dan een email</a> met uw C.V.<p/>
 
-<p>Wilt u meer weten over uw mogelijkheden, stuur ons dan een e-mail met uw C.V. of vul het contact formulier in.<p/>
+<p><strong>Wilt u emigreren naar Canada maar staat uw beroep niet op de beroepenlijst?</strong><br/>
+Dan is de <i>Canadian Experience Class</i> misschien de oplossing voor u. Na een jaar werken op een werkvisum kunt u al in aanmerking komen voor een permanente verblijfsvergunning voor Canada.
 
-<p>Wilt u emigreren naar Canada maar staat uw beroep niet op de beroepenlijst?<br/>
-Dan is de Canadian Experience Class misschien de oplossing voor u. Na een jaar werken op een werkvisum kunt u al in aanmerking komen voor een permanente verblijfsvergunning voor Canada. Mocht u vrijblijvend meer willen weten, neem dan contact met ons op.<p/>
+<p>Afhankelijk van uw beroep zou u misschien ook in aanmerking kunnen komen voor een visum via de <i>Federal Skilled Trades Class</i>, speciaal voor vakmensen.
+
+<p>Mocht u vrijblijvend meer willen weten, neem dan <a href="{{ site.baseurl }}/contact">contact</a> op.
+
+<p/>
