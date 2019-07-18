@@ -4089,9 +4089,10 @@ cite {
 }
 
 .chapters .chapter_inner .chapter_title {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   font-weight: 400;
   margin: 0 0 0.5rem 0;
+  background-color: #0b0a0a99;
 }
 
 .newsletter {
