@@ -2,11 +2,10 @@
 layout: country
 title: "Australië"
 country: australie
-img: AustraliaSydneySkyline2.jpg # Add image post (optional)
+img: AustraliaSydneySkyline2.jpg
 date: 2017-07-21 12:52:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Sweden, Travel, Forest]
 ---
+
 <p><strong>Particulieren</strong><br/>
 
 Australië is een populair  emigratie land voor Europeanen en staat open voor emigranten uit de hele wereld. Behalve uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging voert Australie ook een structureel en overzichtelijk aanmoedigingsbeleid voor kennismigranten.<br/>
