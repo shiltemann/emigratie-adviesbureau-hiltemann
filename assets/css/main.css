@@ -3956,10 +3956,18 @@ cite {
   font-weight: 700;
 }
 
+
+.main_header .logo .sub {
+  font-style: italic;
+  color: white;
+  font-weight: 1;
+}
+
 .main_header .logo span {
   color: #c0334a;
   font-weight: 400;
 }
+
 
 .main_header nav a {
   color: #ffffff;
@@ -4009,7 +4017,10 @@ cite {
 }
 
 #banner .content {
-  padding: 12rem 0 12rem 0;
+  position: absolute;
+  z-index: 999;
+  background: rgba(192, 51, 74, 0.4);
+  bottom: 0;
 }
 
 #banner .content .title, #banner .content .sub_title {
@@ -4018,10 +4029,10 @@ cite {
 }
 
 #banner .content .title {
-  font-size: 3.5rem;
-  margin: 0 0 1rem 0;
-  position: relative;
-  width: 40%;
+  font-size: 2rem;
+  margin: 0 0 0 0;
+  padding: 1rem 1rem 1rem 1rem;
+  width: 100%;
 }
 
 #banner .content .sub_title {
@@ -4094,12 +4105,18 @@ cite {
   margin: 0 0 0.5rem 0;
 }
 
-div.service, section.country:after {
+div.service {
   position: absolute;
   height: 30%;
   top: 75%;
   left: 0;
   right: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+
+.chapters .country {
+  position: absolute;
+  display: block;
   background: rgba(0, 0, 0, 0.5);
 }
 
