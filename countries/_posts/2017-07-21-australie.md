@@ -10,7 +10,7 @@ date: 2017-07-21 12:52:00 +0300
 
 Australië is een populair  emigratie land voor Europeanen en staat open voor emigranten uit de hele wereld. Behalve uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging voert Australië ook een structureel en overzichtelijk aanmoedigingsbeleid voor kennismigranten.<br/>
 Wilt u nog niet permanent emigreren, maar wel een proefje krijgen van hoe het is om te wonen en werken in Australië? En bent u 18 t/m 30 jaar oud? Dan is het Working Holiday Program de ideale manier om een visum te krijgen waarmee u een jaar lang kunt werken of stage lopen in Australië. Ook geschikt voor jongeren die gewoon op vakantie willen met de mogelijkheid om legaal te werken als en wanneer zij dat willen.<br/>
-Wilt u alleen op vakantie? Dan heeft u een ETA (Electronic Travel Authority) nodig. Daarmee kunt u maximaal 3 maanden in Australië verblijven. Ook hiermee kunnen wij u helpen.<br/>
+Wilt u gewoon op vakantie? Dan heeft u een ETA (Electronic Travel Authority) nodig. Daarmee mag u maximaal 3 maanden in Australië verblijven. Ook hiermee kunnen wij u helpen.<br/>
 
 <p>Kijk hieronder voor meer informatie, of neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op.<p/>
 
