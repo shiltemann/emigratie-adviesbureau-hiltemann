@@ -2,6 +2,67 @@
 layout: main
 ---
 
+<div class="entry_content">
+<section class="cf">
+
+<h2 style="margin-bottom:3rem;"> Onze Diensten </h2>
+
+<div class="row text-center">
+  <div class="col-md-3">
+    <a href="#servicesModal1" class="projects-link" data-toggle="modal">
+      <span class="fa-stack fa-4x">
+         <i class="fa fa-circle fa-stack-2x text-primary"></i>
+         <i class="fa fa-check-circle fa-stack-1x fa-inverse"> </i>
+      </span>
+     </a>
+     <h4 class="service-heading">Visum Check</h4>
+       <p class="text-muted">Wilt u weten of u in aanmerking komt voor een visum? Stuur vrijblijvend uw CV op, en wij beoordelen uw kansen binnen een week.</p>
+  </div>
+
+  <div class="col-md-3">
+    <a href="#servicesModal2" class="projects-link" data-toggle="modal">
+      <span class="fa-stack fa-4x">
+         <i class="fa fa-circle fa-stack-2x text-primary"></i>
+         <i class="fa fa-list-ol fa-stack-1x fa-inverse"> </i>
+      </span>
+    </a>
+    <h4 class="service-heading">Volledige Visum aanvraag</h4>
+      <p class="text-muted">Efficiënte begeleiding en een gerichte belangenbehartiging bij de visumaanvraag in het kader van de wetgeving van het betreffende land.</p>
+  </div>
+
+  <div class="col-md-3">
+    <a href="#servicesModal3" class="projects-link" data-toggle="modal">
+      <span class="fa-stack fa-4x">
+         <i class="fa fa-circle fa-stack-2x text-primary"></i>
+         <i class="fa fa-building fa-stack-1x fa-inverse"> </i>
+      </span>
+    </a>
+    <h4 class="service-heading">Begeleiding voor Bedrijven</h4>
+    <p class="text-muted">Begeleiding bij het uitzenden van personeel, het opzetten van een bedrijf, of zaken doen in het buitenland.</p>
+  </div>
+
+  <div class="col-md-3">
+    <span class="fa-stack fa-4x">
+      <i class="fa fa-circle fa-stack-2x text-primary"></i>
+      <i class="fa fa-handshake-o fa-stack-1x fa-inverse"> </i>
+    </span>
+    <h4 class="service-heading">Beperkte begeleiding voor doe-het-zelvers</h4>
+    <p class="text-muted">Doet u de aanvraag liever zelf? Wij bieden ook op-maat begeleiding op uurbasis.</p>
+  </div>
+</div>
+
+<p>
+<strong>Meer Informatie?</strong>
+Heeft u interesse in een van onze diensten? Neem dan <a href="{{ site.baseurl }}/contact/">contact</a> met ons op. Of klik hieronder op het gewenste land voor meer informatie.</p>
+</section>
+</div>
+
+<div class="entry_content">
+<section class="cf">
+<h2> Informatie per land </h2>
+</section>
+</div>
+
 {% for post in site.categories.countries %}
   <div class="chapter">
     <a href="{{post.url | prepend: site.baseurl}}">
