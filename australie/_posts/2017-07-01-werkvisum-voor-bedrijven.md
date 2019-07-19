@@ -7,8 +7,17 @@ tag: [Travel, Blogging, Mountains]
 country: Australië
 
 ---
-Heeft uw werknemer een visum nodig?<br/>
-Voor een aantal gevallen van zakendoen in Canada is een werkvisum niet nodig. Kijk *hier* of u of de werknemers die u wilt uitsturen naar Australie echt een werkvisum nodig hebben. 
+<p><strong>Heeft uw werknemer een visum nodig?</strong><br/>
+Voor een aantal gevallen van zakendoen in Australië is een werkvisum niet nodig. Wanneer een werkvisum wel nodig is, biedt Australië verschillende mogelijkheden. Welk visum voor uw werknemer geschikt is hangt voornamelijk af van de duur van het werk en van het soort werk.
+</p>
 
-Als uw werknemer een visum nodig heeft - Intra-company transfers<br/>
-Een werkvisum voor het uitsturen van senior managers of specialized knowledge workers naar een filiaal of zuster bedrijf in Canada voor voor enkele jaren is vaak niet zo moeilijk als men denkt maar u moet wel de weg kennen. Wij kunnen hiervoor zorgen en alles voor u en uw medewerker(s) regelen. Mocht u vrijblijvend meer willen weten over wat wij voor u kunnen doen, neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op.
+<p><strong>Werkvisum voor korte projecten - specialized knowledge workers</strong><br/>
+Als uw bedrijf personeel wilt uitzenden voor een project in Australië en het werk in principe niet langer zal duren dan 3 maanden (of bij uitzondering 6 maanden), kunt u een tijdelijk werkvisum aanvragen. Vereiste is wel dat het gaat om gespecialiseerd werk of werk dat in het nationale belang van Australië is. Wij kunnen u in zo'n geval snel helpen aan de juiste werkvergunning.
+</p>
+
+<p><strong>Werkvisum voor langere tijd - Intra-company transfers</strong><br/>
+Een werkvisum voor het uitsturen van personeel voor een project is alleen mogelijk naar een Australisch filiaal of zusterbedrijf van uw eigen bedrijf. Daarnaast is het visum alleen beschikbaar voor senior managers en voor personeel dat valt in de categorie <i>specialized and proprietary knowledge workers</i>. Dit is vaak niet zo ingewikkeld als men denkt maar u moet wel de weg kennen. Wij kunnen voor het juiste visum zorgen en alles voor u en uw personeel regelen.
+</p>
+
+<p>Mocht u vrijblijvend meer willen weten over wat wij voor uw bedrijf en personeel kunnen doen, neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op.
+</p>
