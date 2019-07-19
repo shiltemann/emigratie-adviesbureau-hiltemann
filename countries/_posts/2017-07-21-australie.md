@@ -2,7 +2,7 @@
 layout: country
 title: "Australië"
 country: australie
-img: AustraliaSydneySkyline2.jpg
+img: AustraliaSydneySkyline2_small.jpg
 date: 2017-07-21 12:52:00 +0300
 ---
 
