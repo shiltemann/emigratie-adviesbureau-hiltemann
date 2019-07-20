@@ -4103,7 +4103,7 @@ cite {
 .chapters .chapter_inner .chapter_title {
   font-size: 1.75rem;
   font-weight: 400;
-  margin: 0 0 0.5rem 0;
+  margin: 0 0 -0.5rem 0;
 }
 
 div.service {
@@ -4134,6 +4134,14 @@ div.service {
   position: absolute;
   display: block;
   background: rgba(0, 0, 0, 0.5);
+}
+
+.country_inner {
+  background: rgba(192, 51, 74, 0.5);
+  width: 100%;
+  min-height: 25%;
+  position: absolute;
+  bottom: 0;
 }
 
 .chapters .service .chapter_inner .chapter_title {
