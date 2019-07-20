@@ -1,0 +1,23 @@
+  <section class="author cf">
+    <div class="post_wrapper">
+      <div class="author_image">
+        <img src="{{ site.baseurl }}/assets/img/{{ site.author-pic }}" alt="Photo of Paul Hiltemann">
+      </div>
+      <div class="author_info">
+        <h2 class="author_title">{{ site.author-name }}</h2>
+        <p class="author_subtitle">{{ site.about-author }}</p>
+        <div class="author_social">
+          {% if site.email %}
+          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
+          {% endif %}
+          {% if site.phone %}
+          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></span>
+          {% endif %}
+          {% if site.website %}
+          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section> <!-- End Section Author -->
+

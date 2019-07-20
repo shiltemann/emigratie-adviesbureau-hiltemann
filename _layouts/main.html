@@ -6,61 +6,22 @@ layout: default
   {% include banner.html %}
 
   <article class="post intro">
-  <header></header>
-  <div class="entry_content">
-  <section class="intro cf">
-    <h3 class="slogan"><a class="logo">EAH</a> - persoonlijke begeleiding tegen de laagste prijs</h3>
-    EAH zorgt al meer dan 20 jaar voor verantwoorde begeleiding van mensen die een visum nodig hebben om te werken, studeren of permanent te wonen in Australië, Canada, Nieuw-Zeeland, de Verenigde Staten, China, Japan en Taiwan. Voor zowel particulieren als bedrijven. Heeft u interesse in een ander land? Wij helpen u op weg en bieden op-maat advies.
-  </section>
-  </div>
-  <!--</article>-->
-
-  <section class="chapters cf">
-      <div class="wrapper flex-row">
-      {{ content }}
-      </div>
-  </section>
-
-  <main class="page-content">
-  <!--<article class="post">-->
-  <header></header>
-  <div class="entry_content">
-
-
-  </section>
-  </article>
-
-  <section class="author cf">
-    <div class="post_wrapper">
-      <div class="author_image">
-        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
-      </div>
-      <div class="author_info">
-        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
-        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}La croix godard blue bottle, vape iceland fingerstache cronut single-origin coffee lyft snackwave normcore small batch.{% endif %}</p>
-        <div class="author_social">
-          {% if site.email %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
-          {% else %}
-          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:dwayne@example.com">dwayne@example.com</a></span>
-          {% endif %}
-
-          {% if site.phone %}
-          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{site.phone}}</a></span>
-          {% else %}
-          <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+496-169-65-57">(496)-169-6557</a></span>
-          {% endif %}
-
-          {% if site.website %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
-          {% else %}
-          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
-          {% endif %}
-        </div>
-      </div>
+    <header></header>
+    <div class="entry_content">
+      <section class="intro cf">
+        <h3 class="slogan"><a class="logo">EAH</a> - persoonlijke begeleiding tegen de laagste prijs</h3>
+        EAH zorgt al meer dan 20 jaar voor verantwoorde begeleiding van mensen die een visum nodig hebben om te werken, studeren of permanent te wonen in Australië, Canada, Nieuw-Zeeland, de Verenigde Staten, China, Japan en Taiwan. Voor zowel particulieren als bedrijven. Heeft u interesse in een ander land? Wij helpen u op weg en bieden op-maat advies.
+      </section>
     </div>
-  </section> <!-- End Section Author -->
 
-  </main>
+    <section class="chapters cf">
+      <div class="wrapper flex-row">
+        {{ content }}
+       </div>
+    </section> <!-- end section countries -->
+
+  </article> <!-- end main article -->
+
+  {% include author.html %}
 
   {% include footer.html %}
