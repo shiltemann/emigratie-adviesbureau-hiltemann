@@ -1,13 +1,13 @@
 logo: # add logo name
 title: EAH - Emigratie Adviesbureau Hiltemann
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   EAH zorgt voor verantwoorde begeleiding van particulieren en bedrijven die een
   visum nodig hebben om te werken, studeren of permanent te wonen in Australië, Canada
   Nieuw-Zeeland of de Verenigde Staten. Ook voor overige landen bieden wij op-maat
   begeleiding.
 permalink: '/:categories/:title/'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.emigratie-adviesbureau-hiltemann.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://www.emigratie-adviesbureau-hiltemann.com"
 
 # Author settings
 author-pic: paulhiltemann.jpg
