@@ -4126,8 +4126,8 @@ div.service {
 .slogan {
   color: rgba(192, 51, 74, 0.9);
   font-style: italic;
-  font-weight: 700;
   margin-bottom: 2rem;
+  font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
 }
 
 .chapters .country {
