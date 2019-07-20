@@ -2,8 +2,7 @@
 layout: country
 title: "Nieuw-Zeeland"
 country: newzealand
-img: NZMilfordSound.jpg # Add image post (optional)
-date: 2017-07-19 12:50:00 +0300
+img: NZMilfordSound.jpg
 ---
 
 <p><strong>Particulieren</strong><br/>
