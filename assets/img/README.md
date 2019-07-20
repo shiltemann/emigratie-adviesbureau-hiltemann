@@ -4,8 +4,12 @@
 | File | Image  | origin | license |
 |------|--------|--------|---------|
 | `banner/USGoldenGateBridge.jpg` |Golden Gate Bridge | [Pixabay](https://pixabay.com/photos/panorama-california-2300806/) | Free for commercial use, no attribution required |
-
-
+| `banner/NZMilfordSound3`| Milford Sound |   |   |
+| `banner/AustraliaSydneySkyline.jpg` | Sydney Skyline | | |
+| `banner/CanadaNaturebanner.jpg` | Canada Nature | | |
+| `banner/CanadaTorontoSkyline3.jpg`| Toronto Skyline | | |
+| `banner/ChinaShanghaiBanner2.jpg` | Shanghai Skyline | | |
+| `banner/AustraliaNaturebanner.jpg` | Australia Nature | | |
 
 # Pages
 
