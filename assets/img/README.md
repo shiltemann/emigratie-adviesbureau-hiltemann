@@ -42,3 +42,8 @@
 | File | Image                          | origin | license |
 |------|--------------------------------|--------|---------|
 | `newzealand/snow-capped-peaks-and-mountains-landscape-in-new-zealand.jpg` | NZ snowy mountains |[goodfreephotos.com](https://www.goodfreephotos.com/new-zealand/other-new-zealand/snow-capped-peaks-and-mountains-landscape-in-new-zealand.jpg.php)| public domain |
+| `` | NZ mountain road | [Pixabay](https://pixabay.com/photos/new-zealand-landscape-mountains-1882703/) | |
+| `` | NZ turquoise lake | [Pixabay](https://pixabay.com/photos/turquoise-reservoir-lake-amazing-1679922/) | |
+| `` | NZ cathedral cove | [Pixabay]()| |
+|    | sheep | [PixaBay](https://pixabay.com/photos/new-zealand-sea-sheep-coast-225540/) ||
+| | Auckland skyline sunset | [NZ visuals](https://visuals.newzealand.com/assets/2154?tags=Auckland)| Worldwide usage excluding New Zealand in unpaid digital and print media to promote New Zealand as a visitor destination. |

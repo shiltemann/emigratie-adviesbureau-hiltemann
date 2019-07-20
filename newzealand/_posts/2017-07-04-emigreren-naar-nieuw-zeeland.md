@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Emigreren"
-img: CanadaEmigreren.jpg # Add image post (optional)
+img: newzealand/mountain-road.jpg
 country: Nieuw Zeeland
 
 ---

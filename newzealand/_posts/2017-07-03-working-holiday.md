@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Working Holiday"
-img: himalayan.jpg # Add image post (optional)
+img: newzealand/sheep.jpg
 country: Nieuw Zeeland
 
 ---
