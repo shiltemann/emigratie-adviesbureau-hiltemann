@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Working Holiday"
-img: himalayan.jpg # Add image post (optional)
+img: australia/koala.jpg
 country: Australië
 
 ---

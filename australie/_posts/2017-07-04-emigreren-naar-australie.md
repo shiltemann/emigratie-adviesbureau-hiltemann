@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Emigreren"
-img: CanadaEmigreren.jpg # Add image post (optional)
+img: australia/uluru.jpg
 country: Australië
 
 ---
