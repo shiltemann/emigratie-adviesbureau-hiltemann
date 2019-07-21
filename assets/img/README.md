@@ -6,10 +6,8 @@
 | `banner/USGoldenGateBridge.jpg` |Golden Gate Bridge | [Pixabay](https://pixabay.com/photos/panorama-california-2300806/) | Free for commercial use, no attribution required |
 | `banner/milfordsound.jpg`| Milford Sound | [visuals NZ](https://visuals.newzealand.com/assets/2014?tags=Milford%20Sound)   |   |
 | `banner/AustraliaSydneySkyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-opera-house-harbor-city-1518191/) | free for commercial use, no attribution required |
-| `banner/CanadaNaturebanner.jpg` | Canada Nature | | |
 |`banner/toronto-skyline2`|Toronto Skyline|[dreamstime](https://www.dreamstime.com/toronto-canada-skyline-over-waterfront-public-domain-image-free-95798754)|public domain|
 | `banner/shanghai-skyline.jpg` | Shanghai Skyline | [unsplash](https://unsplash.com/photos/YDJ2-LiP8DE) | |
-| `banner/AustraliaNaturebanner.jpg` | Australia Nature | | |
 | `banner/sydney-skyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-australia-sydney-harbour-352492/)||
 |`banner/niagara-falls.jpg`|Niagara Falls| [Pixabay](https://pixabay.com/photos/waterfall-water-flow-running-water-2187851/)| |
 | |shanghai Skyline Night | [piqsels](https://www.piqsels.com/en/public-domain-photo-fjmyd) | CC0 |
