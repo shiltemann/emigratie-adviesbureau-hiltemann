@@ -3,7 +3,8 @@ layout: service
 title: "Emigreren"
 img: verenigdestaten/emigreren.jpg
 country: Verenigde Staten
-
+description: >
+  Wilt u emigreren naar de VS?
 ---
 <strong>Emigreren naar Nieuw Zeeland via gezinshereniging</strong><br/>
 Nieuw Zeeland biedt vrij uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging. Bent u getrouwd of woont u al minstens 1 jaar samen met iemand met de Nieuw Zeelandse nationaliteit of een Nieuw Zeelandse permanente verblijfsvergunning? Dan kunt u door haar of hem gesponsord worden voor een permanente verblijfsvergunning ongeacht uw leeftijd, beroep of werkervaring. Wilt u meer weten over deze mogelijkheid, neem dan contact op met ons partnerbedrijf <a href="https://www.visaversa.com/" target="_blank">VisaVersa</a>.

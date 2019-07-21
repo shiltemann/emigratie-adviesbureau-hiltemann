@@ -3,7 +3,10 @@ layout: service
 title: "Emigreren"
 img: newzealand/emigreren.jpg
 country: Nieuw Zeeland
-
+description: >
+  EAH helpt u met het verkrijgen van het juiste visum als u wilt emigreren
+  naar Nieuw-Zeeland. Zowel op basis van gezinshereniging als via de skilled
+  worker met en beroep op de beroepenlijst.
 ---
 <strong>Emigreren naar Nieuw Zeeland via gezinshereniging</strong><br/>
 Nieuw Zeeland biedt vrij uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging. Bent u getrouwd of woont u al minstens 1 jaar samen met iemand met de Nieuw Zeelandse nationaliteit of een Nieuw Zeelandse permanente verblijfsvergunning? Dan kunt u door haar of hem gesponsord worden voor een permanente verblijfsvergunning ongeacht uw leeftijd, beroep of werkervaring. Wilt u meer weten over deze mogelijkheid, neem dan contact op met ons partnerbedrijf <a href="https://www.visaversa.com/" target="_blank">VisaVersa</a>.

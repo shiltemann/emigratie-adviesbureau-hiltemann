@@ -3,7 +3,9 @@ layout: service
 title: "Working Holiday"
 img: canada/moose.jpg
 country: Canada
-
+description: >
+  Wilt u stage lopen of tijdelijk werken in Canada? EAH helpt u bij het
+  verkrijgen van een visum voor een working holiday.
 ---
 <strong>Working Holiday Program Canada-Netherlands</strong><br/>
 Het Working Holiday programma van Canada staat open voor jongeren van 18 t/m 30 jaar. Dit is de ideale manier om een visum te krijgen om stage te lopen of tijdelijk te werken in Canada, maar ook zeer geschikt voor jongeren die gewoon op vakantie willen met de mogelijkheid om legaal te werken als en wanneer zij dat willen.

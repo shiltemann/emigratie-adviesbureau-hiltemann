@@ -3,6 +3,9 @@ layout: country
 title: "Nieuw-Zeeland"
 country: nieuw-zeeland
 img: countries/NZMilfordSound3.jpg
+description: >
+  EAH helpt u bij het vrijkrijgen van het juiste visum voor Nieuw-Zeeland. Zowel voor vakanties
+  (Visitor Visa), working holiday permits, en permanente verblijfsvergunningen als u wilt emigreren.
 ---
 
 <p><strong>Particulieren</strong><br/>
