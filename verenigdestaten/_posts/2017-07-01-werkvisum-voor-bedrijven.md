@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Personeel uitzenden"
-img: newzealand/auckland-skyline.jpg
+img: verenigdestaten/new-york.jpg
 country: Verenigde Staten
 
 ---
