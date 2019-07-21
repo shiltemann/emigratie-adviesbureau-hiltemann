@@ -20,7 +20,7 @@
 |      | Canada |        |         |
 |      | NZ     |        |         |
 |      | USA    |        |         |
-|      | ChinaJapanTaiwan |        |         |
+| `countries/ChinaShanghai.jpeg` | ChinaJapanTaiwan | [unsplash](https://unsplash.com/photos/uKyzXEc2k_s)       |   no attribution required      |
 |      | Overig |        |         |
 
 # Services
