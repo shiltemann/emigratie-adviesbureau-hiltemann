@@ -11,7 +11,7 @@ Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning 
 
 
 <!-- Bedrijven paginas van ieder lands -->
-{% assign countries = "australie|canada|nieuwzeeland|verenigdestaten" | split: "|" %}
+{% assign countries = "australie|canada|nieuw-zeeland|verenigde-staten" | split: "|" %}
 
 <section class="chapters cf">
   <div class="wrapper flex-row">
