@@ -5,12 +5,30 @@ img: verenigdestaten/emigreren.jpg
 country: Verenigde Staten
 
 ---
-<strong>Emigreren naar Nieuw Zeeland via gezinshereniging</strong><br/>
-Nieuw Zeeland biedt vrij uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging. Bent u getrouwd of woont u al minstens 1 jaar samen met iemand met de Nieuw Zeelandse nationaliteit of een Nieuw Zeelandse permanente verblijfsvergunning? Dan kunt u door haar of hem gesponsord worden voor een permanente verblijfsvergunning ongeacht uw leeftijd, beroep of werkervaring. Wilt u meer weten over deze mogelijkheid, neem dan contact op met ons partnerbedrijf <a href="https://www.visaversa.com/" target="_blank">VisaVersa</a>.
+<p>
+<strong>Emigreren naar de Verenigde Staten: de Green Card</strong><br/>
+Een Green Card geeft emigranten de mogelijkheid om te wonen, studeren en werken in de Verenigde Staten. Het verkrijgen van een Green Card is vaak helaas niet makkelijk. Er zijn 4 categorieën waarin u een Green Card kunt aanvragen:
+</p>
 
-<strong>Emigreren naar Nieuw Zeeland via de beroepenlijst</strong><br/>
-Nieuw Zeeland hanteert voor migranten een puntensysteem waarbij een minimale puntenscore nodig is om in aanmerking te komen voor een permanente verblijfsvergunning. Er worden punten toegekend voor o.a. uw beroep, werkervaring, opleiding, leeftijd en taalkennis. Nieuw Zeeland hanteert hiervoor een beroepenlijst genaamd de <i>New Zealand Skill Shortage List</i>. Dit is een lijst met beroepen waar een tekort aan is op de Nieuw Zeelandse arbeidsmarkt. Om in aanmerking te komen voor een permanente verblijfsvergunning is het nodig dat uw beroep zich op deze lijst bevindt. Daarnaast maakt u de meeste kans als u onder de 55 jaar oud bent, minstens een HBO diploma heeft, en goed Engels spreekt (u hoeft niet vloeiend te zijn).
+<p>
+<i>Via gezinshereniging en gezinsvorming</i><br/>
+Om in deze categorie in aanmerking te komen moet u een direct familielid hebben die ofwel de Amerikaane nationaliteit heeft, ofwel een green card bezit. Dit familielid kan u dan sponsoren. Daarnaast kunt u ook in aanmerking komen als u verloofd bent met een Amerikaan(se), mits u kort na toekenning van de green card ook daadwerkelijk trouwt. Dit is de categorie waarin jaarlijks de meeste green cards worden toegekend. Er is geen quotum voor: iedereen die aan alle eisen voldoet, zal een green card ontvangen. De duur van de aanvraag hangt onder andere af van de preciese relatie met uw familielid. De aanvraagprocedure neemt in alle gevallen vrij veel tijd in beslag: momenteel van ongeveer een jaar tot meerdere jaren.
+</p>
 
-Het is de afgelopen jaren echter een stuk moeilijker geworden om de minimum puntenscore te behalen. Dit is omdat Nieuw Zeeland een strenger immigratiebeleid is gaan voeren. Zo is de beroepenlijst beperkter geworden, en is de minimum puntenscore omhoog gegaan. Daardoor moet er tegenwoordig eigenlijk altijd sprake zijn van een werkaanbod van een Nieuw Zeelandse werkgever om genoeg punten te halen. En in de meeste gevallen moet die werkgever zich buiten Auckland bevinden.
+<p>
+<i>Op basis van een werkaanbod</i><br/>
+Om in deze categorie in aanmerking te komen moet u ten minste een werkaanbod hebben van een Amerikaanse werkgever. Daarnaast is dit alleen mogelijk voor mensen met bepaalde beroepen, vakmensen aan wie in de Verenigde Staten een tekort is, of mensen met wat door de VS wordt beschouwd als een 'speciaal talent'.
+</p>
 
-Wilt u meer weten over uw kansen om te emigreren naar Nieuw Zeeland? Neem dan contact op met ons partnerbedrijf <a href="https://www.visaversa.com/" target="_blank">VisaVersa</a>.
+<p>
+<i>Op basis van een grote investering</i><br/>
+Om in deze categorie in aanmerking te komen moet u als investeerder minstens 1 miljoen dollar investeren, en daarbij moeten minstens 10 banen gecreëerd worden. In sommige gevallen is een investering van 500.000 dollar genoeg.
+</p>
+
+<p>
+<i>Via de Green Card loterij</i><br/>
+Elk jaar verloot de overheid van de Verenigde Staten wereldwijd 50.000 green cards onder iedereen die zich daarvoor heeft aangemeld. Aanmelden is makkelijk en gratis.
+</p>
+
+<p>Wilt u weten of u in aanmerking komt voor een green card? Neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op. Wij beoordelen uw kansen en kunnen de gehele aanvraag voor u verzorgen.
+</p>

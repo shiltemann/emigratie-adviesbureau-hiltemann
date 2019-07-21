@@ -14,7 +14,7 @@ Als uw bedrijf personeel wilt uitzenden voor een project in Australië en het we
 </p>
 
 <p><strong>Werkvisum voor langere tijd - Intra-company transfers</strong><br/>
-Een werkvisum voor het uitzenden van personeel voor langere tijd is alleen mogelijk naar een Australisch filiaal of zusterbedrijf van uw eigen bedrijf. Daarnaast is het visum alleen beschikbaar voor senior managers en voor personeel dat valt in de categorie <i>specialized and proprietary knowledge workers</i>. Dit is vaak niet zo ingewikkeld als men denkt maar u moet wel de weg kennen. Wij kunnen voor het juiste visum zorgen en alles voor u en uw personeel regelen.
+Een werkvisum voor het uitzenden van personeel voor langere tijd is alleen mogelijk naar een Australisch filiaal of zusterbedrijf van uw eigen bedrijf. Daarnaast is het visum alleen beschikbaar voor senior managers en voor personeel dat valt in de categorie <i>specialized and proprietary knowledge workers</i>. Dit kan vrij ingewikkeld zijn en men moet daarom goed de weg kennen. Wij kunnen voor het juiste visum zorgen en alles voor u en uw personeel regelen.
 </p>
 
 <p>Mocht u vrijblijvend meer willen weten over wat wij voor uw bedrijf en personeel kunnen doen, neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op.

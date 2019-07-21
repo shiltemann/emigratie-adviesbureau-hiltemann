@@ -13,6 +13,7 @@
 | `banner/sydney-skyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-australia-sydney-harbour-352492/)||
 |`banner/niagara-falls.jpg`|Niagara Falls| [Pixabay](https://pixabay.com/photos/waterfall-water-flow-running-water-2187851/)| |
 | |shanghai Skyline Night | [piqsels](https://www.piqsels.com/en/public-domain-photo-fjmyd) | CC0 |
+| |Canada Lake | [Pixabay](https://pixabay.com/nl/photos/landschap-schilderachtig-water-1843128/) | Free for commercial use, no attribution required |
 | `banner/grand-canyon.jpg`| Grand Canyon |[Pixabay](https://pixabay.com/photos/grand-canyon-geology-landscape-828762/)||
 | `banner/lake-mcdonald.jpg`| Grand Canyon |[Pixabay](https://pixabay.com/photos/lake-mcdonald-landscape-scenic-1992775/)||
 
