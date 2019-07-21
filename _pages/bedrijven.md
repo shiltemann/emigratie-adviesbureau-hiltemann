@@ -2,12 +2,14 @@
 layout: country
 title: "Bedrijven"
 country: bedrijven
-img: OverigeLandenCollage.jpg
+img: Bedrijven.jpg
 description: Informatie over visum voor bedrijven en personeel
 permalink: /bedrijven/
 ---
 
-Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning te krijgen, omdat bescherming van de arbeidsmarkt betekent dat staatsburgers en permanente inwoners van een land voorrang krijgen boven "buitenlanders", zijn er wel speciale faciliteiten ter bevordering van internationaal zaken doen. Wilt u zaken doen in het buitenland? Of wilt u werknemers uitzenden? Wij helpen u aan het juiste visum. Klik hieronder op het gewenste land voor meer informatie, of neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op.</p>
+<p>
+Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning te krijgen, omdat bescherming van de arbeidsmarkt betekent dat staatsburgers en permanente inwoners van een land voorrang krijgen boven "buitenlanders", zijn er wel speciale faciliteiten ter bevordering van internationaal zaken doen. Wilt u zaken doen in het buitenland? Of wilt u werknemers uitzenden? Wij helpen u aan het juiste visum. Klik hieronder op het gewenste land voor meer informatie, of neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op.
+</p>
 
 
 <!-- Bedrijven paginas van ieder lands -->

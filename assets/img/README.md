@@ -17,8 +17,8 @@
 
 | File | Image  | origin | license |
 |------|--------|--------|---------|
-|      | Australia |        |         |
-|      | Canada |        |         |
+|      | Australia | https://pixabay.com/nl/photos/australi%C3%AB-sydney-opera-1281935/       |         |
+|      | Canada | https://pixabay.com/nl/photos/niagara-falls-canada-niagara-3589433/    |         |
 |      | NZ     | https://www.flickr.com/photos/volvob12b/14848990805/in/photostream/    | public domain  |
 |      | USA    | https://www.publicdomainpictures.net/en/view-image.php?image=167249&picture=statue-of-liberty      |  public domain  |
 |      | Overig | https://pixabay.com/photos/hands-world-map-global-earth-600497/       |         |
