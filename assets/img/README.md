@@ -12,14 +12,14 @@
 | `banner/AustraliaNaturebanner.jpg` | Australia Nature | | |
 | `banner/sydney-skyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-australia-sydney-harbour-352492/)||
 |`banner/niagara-falls.jpg`|Niagara Falls| [Pixabay](https://pixabay.com/photos/waterfall-water-flow-running-water-2187851/)| |
-
+| |shanghai Skyline Night | [piqsels](https://www.piqsels.com/en/public-domain-photo-fjmyd) | CC0 |
 # Country Pages
 
 
 | File | Image  | origin | license |
 |------|--------|--------|---------|
-|      | Australia |        |         |
-|      | Canada |        |         |
+|      |Australia | https://pixabay.com/nl/photos/australi%C3%AB-sydney-opera-1281935/       |         |
+|      | Canada | https://pixabay.com/nl/photos/niagara-falls-canada-niagara-3589433/    |         |
 |      | NZ     | https://www.flickr.com/photos/volvob12b/14848990805/in/photostream/    | public domain  |
 |      | USA    | https://www.publicdomainpictures.net/en/view-image.php?image=167249&picture=statue-of-liberty      |  public domain  |
 |      | Overig | https://pixabay.com/photos/hands-world-map-global-earth-600497/       |         |
