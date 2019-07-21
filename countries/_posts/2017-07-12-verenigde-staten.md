@@ -1,7 +1,7 @@
 ---
 layout: country
 title: "Verenigde Staten"
-country: verenigdestaten
+country: verenigde-staten
 img: USStatueOfLiberty2.jpg
 ---
 

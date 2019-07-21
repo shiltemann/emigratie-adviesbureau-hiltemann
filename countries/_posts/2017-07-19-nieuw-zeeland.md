@@ -1,7 +1,7 @@
 ---
 layout: country
 title: "Nieuw-Zeeland"
-country: nieuwzeeland
+country: nieuw-zeeland
 img: NZMilfordSound.jpg
 ---
 
