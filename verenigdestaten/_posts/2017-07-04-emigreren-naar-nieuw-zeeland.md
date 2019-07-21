@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Emigreren"
-img: newzealand/mountain-road_scaled.jpg
+img: verenigdestaten/road-utah.jpg
 country: Verenigde Staten
 
 ---

@@ -11,11 +11,17 @@
 | `banner/ChinaShanghaiBanner2.jpg` | Shanghai Skyline | | |
 | `banner/AustraliaNaturebanner.jpg` | Australia Nature | | |
 
-# Pages
+# Country Pages
+
 
 | File | Image  | origin | license |
 |------|--------|--------|---------|
-|      | map with compass (contact page)| [hdwallpaperim.com](https://hdwallpaperim.com/map-compass-books/) |
+|      | Australia |        |         |
+|      | Canada |        |         |
+|      | NZ     |        |         |
+|      | USA    |        |         |
+|      | ChinaJapanTaiwan |        |         |
+|      | Overig |        |         |
 
 # Services
 
@@ -47,3 +53,17 @@
 | `` | NZ cathedral cove | [Pixabay]()| |
 |    | sheep | [PixaBay](https://pixabay.com/photos/new-zealand-sea-sheep-coast-225540/) ||
 | | Auckland skyline sunset | [NZ visuals](https://visuals.newzealand.com/assets/2154?tags=Auckland)| Worldwide usage excluding New Zealand in unpaid digital and print media to promote New Zealand as a visitor destination. |
+
+## USA
+
+| File | Image                          | origin | license |
+|------|--------------------------------|--------|---------|
+|road-utah| |[Pixabay](https://pixabay.com/photos/road-utah-rocks-wanderlust-travel-1958388/)||
+|monument-valley ||[Pixabay](https://pixabay.com/photos/monument-valley-utah-usa-red-53637/)||
+
+# Other Pages
+
+| File | Image  | origin | license |
+|------|--------|--------|---------|
+|      | map with compass (contact page)| [hdwallpaperim.com](https://hdwallpaperim.com/map-compass-books/) |
+
