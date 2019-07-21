@@ -4,12 +4,13 @@
 | File | Image  | origin | license |
 |------|--------|--------|---------|
 | `banner/USGoldenGateBridge.jpg` |Golden Gate Bridge | [Pixabay](https://pixabay.com/photos/panorama-california-2300806/) | Free for commercial use, no attribution required |
-| `banner/NZMilfordSound3`| Milford Sound |   |   |
+| `banner/milfordsound.jpg`| Milford Sound | [visuals NZ](https://visuals.newzealand.com/assets/2014?tags=Milford%20Sound)   |   |
 | `banner/AustraliaSydneySkyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-opera-house-harbor-city-1518191/) | free for commercial use, no attribution required |
 | `banner/CanadaNaturebanner.jpg` | Canada Nature | | |
-| `banner/CanadaTorontoSkyline3.jpg`| Toronto Skyline | | |
+| `banner/toronto-skyline.jpg`| Toronto Skyline | [Pixabay](https://pixabay.com/photos/canada-toronto-city-panorama-sky-3290310/)| |
 | `banner/ChinaShanghaiBanner2.jpg` | Shanghai Skyline | | |
 | `banner/AustraliaNaturebanner.jpg` | Australia Nature | | |
+| `banner/sydney-skyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-australia-sydney-harbour-352492/)||
 
 # Country Pages
 
@@ -18,10 +19,17 @@
 |------|--------|--------|---------|
 |      | Australia |        |         |
 |      | Canada |        |         |
+<<<<<<< HEAD
 |      | NZ     | https://www.flickr.com/photos/volvob12b/14848990805/in/photostream/    | public domain  |
 |      | USA    | https://www.publicdomainpictures.net/en/view-image.php?image=167249&picture=statue-of-liberty      |  public domain  |
 |      | ChinaJapanTaiwan |        |         |
 |      | Overig | https://pixabay.com/photos/hands-world-map-global-earth-600497/       |         |
+=======
+|      | NZ     |        |         |
+|      | USA    |        |         |
+| `countries/ChinaShanghai.jpeg` | ChinaJapanTaiwan | [unsplash](https://unsplash.com/photos/uKyzXEc2k_s)       |   no attribution required      |
+|      | Overig |        |         |
+>>>>>>> 759fe1112d2828842bb495149bd8484c58cab81c
 
 # Services
 

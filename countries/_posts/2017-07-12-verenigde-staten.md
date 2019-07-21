@@ -2,8 +2,8 @@
 layout: country
 title: "Verenigde Staten"
 country: verenigde-staten
-img: USStatueOfLiberty3.jpg
----
+img: countries/USStatueOfLiberty3.jpg
+--
 
 <p><strong>Particulieren</strong><br/>
 
