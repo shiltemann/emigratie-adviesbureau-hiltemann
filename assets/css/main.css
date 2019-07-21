@@ -4393,6 +4393,8 @@ div.service {
 
 .post header img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
   max-height: 500px;
   vertical-align: middle;
 }
