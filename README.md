@@ -11,7 +11,7 @@ rechtermuisknop -> "open terminal here"
 
 ## veranderingen maken
 
-`git status`  (om te zien wat er verandert is)
+`git status`  (om te zien wat er veranderd is)
 `git add <file>` (om veranderde files toe te voegen voor commit, gebruik tab for autocompletion)
                 add zoveel files als je wil
 
