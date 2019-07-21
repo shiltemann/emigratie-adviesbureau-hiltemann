@@ -8,7 +8,7 @@
 | `banner/AustraliaSydneySkyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-opera-house-harbor-city-1518191/) | free for commercial use, no attribution required |
 | `banner/CanadaNaturebanner.jpg` | Canada Nature | | |
 | `banner/toronto-skyline.jpg`| Toronto Skyline | [Pixabay](https://pixabay.com/photos/canada-toronto-city-panorama-sky-3290310/)| |
-| `banner/ChinaShanghaiBanner2.jpg` | Shanghai Skyline | | |
+| `banner/shanghai-skyline.jpg` | Shanghai Skyline | [unsplash](https://unsplash.com/photos/YDJ2-LiP8DE) | |
 | `banner/AustraliaNaturebanner.jpg` | Australia Nature | | |
 | `banner/sydney-skyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-australia-sydney-harbour-352492/)||
 
@@ -19,17 +19,10 @@
 |------|--------|--------|---------|
 |      | Australia | https://pixabay.com/nl/photos/australi%C3%AB-sydney-opera-1281935/       |         |
 |      | Canada | https://pixabay.com/nl/photos/niagara-falls-canada-niagara-3589433/    |         |
-<<<<<<< HEAD
 |      | NZ     | https://www.flickr.com/photos/volvob12b/14848990805/in/photostream/    | public domain  |
 |      | USA    | https://www.publicdomainpictures.net/en/view-image.php?image=167249&picture=statue-of-liberty      |  public domain  |
-|      | ChinaJapanTaiwan |        |         |
 |      | Overig | https://pixabay.com/photos/hands-world-map-global-earth-600497/       |         |
-=======
-|      | NZ     |        |         |
-|      | USA    |        |         |
 | `countries/ChinaShanghai.jpeg` | ChinaJapanTaiwan | [unsplash](https://unsplash.com/photos/uKyzXEc2k_s)       |   no attribution required      |
-|      | Overig |        |         |
->>>>>>> 759fe1112d2828842bb495149bd8484c58cab81c
 
 # Services
 
