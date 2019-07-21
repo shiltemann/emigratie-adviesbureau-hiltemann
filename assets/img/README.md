@@ -7,9 +7,10 @@
 | `banner/NZMilfordSound3`| Milford Sound |   |   |
 | `banner/AustraliaSydneySkyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-opera-house-harbor-city-1518191/) | free for commercial use, no attribution required |
 | `banner/CanadaNaturebanner.jpg` | Canada Nature | | |
-| `banner/CanadaTorontoSkyline3.jpg`| Toronto Skyline | | |
+| `banner/toronto-skyline.jpg`| Toronto Skyline | [Pixabay](https://pixabay.com/photos/canada-toronto-city-panorama-sky-3290310/)| |
 | `banner/ChinaShanghaiBanner2.jpg` | Shanghai Skyline | | |
 | `banner/AustraliaNaturebanner.jpg` | Australia Nature | | |
+| `banner/sydney-skyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-australia-sydney-harbour-352492/)||
 
 # Country Pages
 
