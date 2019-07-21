@@ -16,8 +16,9 @@ layout: default
     </header> <!-- End Header -->
 
     <div class="entry_content">
-      {{page.content | markdownify}}
+      {{ content }}
 
+      {% if page.country %}
       <section class="chapters cf">
           <div class="wrapper flex-row">
               {% for post in site.categories[page.country] %}
@@ -38,7 +39,7 @@ layout: default
               {% endfor %}
           </div>
       </section>
-
+      {% endif %}
     </div>
   </article> <!-- End Main Article -->
 

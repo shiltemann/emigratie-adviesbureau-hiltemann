@@ -6,28 +6,26 @@ author: false
 permalink: /contact/
 ---
 
+<!-- edit dad's info in _config.yaml file -->
+
 <section class="author cf">
-    <div class="post_wrapper">
-      <div class="author_image">
-        <img src="/assets/img/paulhiltemann.jpg" alt="Author face">
-      </div>
-      <div class="author_info">
-        <h2>Emigratie Adviesbureau Hiltemann</h2>
-        <br/>
-        <p>Paul Hiltemann </p>
-        <strong>Bezoekadres</strong>
-        <p>
-        Fretweide 27 <br/>
-        2727 HG Zoetermeer <br/>
-        Nederland <br/>
-        <br>
-        <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:+31 644 657 859">+31 644 657 859</a></span><br/>
-        <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:paulhiltemann@ziggo.nl">paulhiltemann@ziggo.nl</a></span>
-        <br/>
-        </p>
-
-        <p class="author_subtitle">Paul Hiltemann is een van de meest ervaren emigratie consulenten van Nederland. Hij heeft jarenlang gewerkt als immigratie specialist op de Canadese Ambassade in Den Haag en heeft daarna in 1997 Emigratie Adviesbureau Hiltemann opgericht. Als consulent heeft hij altijd contact gehouden met de diverse federale en provinciale instanties die het immigratie beleid van Canada bepalen en uitvoeren. Ook is hij helemaal thuis bij het Australische Department of Immigration and Border Protection (DIBP) en heeft hij een speciale relatie met de staat Tasmania en het Australian Capital Territory.</p>
-
-      </div>
+  <div class="post_wrapper">
+    <div class="author_image">
+      <img src="/assets/img/{{ site.author-pic }}" alt="Author face">
     </div>
-  </section>
+    <div class="author_info">
+      <h2>Emigratie Adviesbureau Hiltemann</h2><br/>
+      <p> {{ site.author-name }}</p>
+      <strong>Bezoekadres</strong>
+      <p>
+        Fretweide 27 <br/>
+        2727 HG Zoetermeer<br/>
+        Nederland<br/><br/>
+        <span class="author_phone"><i class="fa fa-phone" aria-hidden="true"></i> <a href="tel:{{site.phone}}">{{ site.phone }}</a></span><br/>
+        <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{ site.email }}</a></span><br/>
+      </p>
+      <p class="author_subtitle">{{ site.about-author }}</p>
+    </div>
+  </div>
+</section> <!-- End Section Contact -->
+
