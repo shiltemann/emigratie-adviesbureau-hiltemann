@@ -2,7 +2,7 @@
 layout: country
 title: "Australië"
 country: australie
-img: AustraliaSydneySkyline2_small.jpg
+img: AustraliaSydneyOpera.jpg
 ---
 
 <p><strong>Particulieren</strong><br/>

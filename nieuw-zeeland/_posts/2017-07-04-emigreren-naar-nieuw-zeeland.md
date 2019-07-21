@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Emigreren"
-img: newzealand/mountain-road_scaled.jpg
+img: newzealand/emigreren.jpg
 country: Nieuw Zeeland
 
 ---

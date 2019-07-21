@@ -18,10 +18,10 @@
 |------|--------|--------|---------|
 |      | Australia |        |         |
 |      | Canada |        |         |
-|      | NZ     |        |         |
-|      | USA    |        |         |
+|      | NZ     | https://www.flickr.com/photos/volvob12b/14848990805/in/photostream/    | public domain  |
+|      | USA    | https://www.publicdomainpictures.net/en/view-image.php?image=167249&picture=statue-of-liberty      |  public domain  |
 |      | ChinaJapanTaiwan |        |         |
-|      | Overig |        |         |
+|      | Overig | https://pixabay.com/photos/hands-world-map-global-earth-600497/       |         |
 
 # Services
 
@@ -32,6 +32,7 @@
 | `canada/moose.jpg` | Moose  | [Pixabay](https://pixabay.com/photos/moose-moose-rack-male-bull-animal-70254/) | |
 | `canada/canada-snow-sunset.jpg` | snowy lake house | [Pixabay](https://pixabay.com/photos/canada-sunset-dusk-log-cabin-lake-2340312/) | |
 | | Lake Alberta | [Pixabay](https://pixabay.com/photos/alberta-canada-lake-mountains-2297204/) | |
+| | emigreren2 | [Pixabay](https://pixabay.com/photos/autumn-landscape-fall-nature-1138875/) | |
 
 ## Australia
 
@@ -51,6 +52,7 @@
 | `` | NZ mountain road | [Pixabay](https://pixabay.com/photos/new-zealand-landscape-mountains-1882703/) | |
 | `` | NZ turquoise lake | [Pixabay](https://pixabay.com/photos/turquoise-reservoir-lake-amazing-1679922/) | |
 | `` | NZ cathedral cove | [Pixabay]()| |
+| `` | NZ hobbit house emigreren | [Pixabay](https://pixabay.com/photos/house-home-quirky-movie-hobbit-2616607/)| |
 |    | sheep | [PixaBay](https://pixabay.com/photos/new-zealand-sea-sheep-coast-225540/) ||
 | | Auckland skyline sunset | [NZ visuals](https://visuals.newzealand.com/assets/2154?tags=Auckland)| Worldwide usage excluding New Zealand in unpaid digital and print media to promote New Zealand as a visitor destination. |
 

@@ -2,13 +2,22 @@
 layout: country
 title: "Verenigde Staten"
 country: verenigde-staten
-img: USStatueOfLiberty2.jpg
+img: USStatueOfLiberty3.jpg
 ---
 
-Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. Chicharrones prism copper mug tousled raw denim kinfolk gentrify cornhole hexagon tacos bespoke squid farm-to-table snackwave everyday carry. Vaporware chicharrones activated charcoal jianbing pok pok. Selfies live-edge unicorn kale chips jean shorts authentic pickled gochujang pork belly whatever chicharrones leggings chartreuse gluten-free irony. Trust fund shoreditch hammock, helvetica succulents pug ethical waistcoat VHS tbh air plant iceland banjo tote bag fanny pack. Ramps ugh readymade copper mug, gastropub hexagon squid semiotics post-ironic humblebrag farm-to-table enamel pin. Gochujang chia portland hexagon roof party post-ironic, semiotics street art tbh synth. Air plant vinyl sustainable pork belly. Chicharrones cronut raw denim listicle flexitarian franzen. Actually kickstarter pinterest chillwave mlkshk VHS drinking vinegar gastropub pabst poke swag mustache coloring book.
+<p><strong>Particulieren</strong><br/>
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+De Verenigde Staten is een land dat al decennialang tot de verbeelding spreekt van mensen rondom de wereld. Emigreren naar de VS is dan ook voor velen een droom. De bekende <i>green card</i>, de Amerikaanse permanente verblijfsvergunning, wordt jaarlijks door miljoenen mensen aangevraagd. De overheid van de Verenigde Staten voert echter een vrij streng beleid wat betreft emigratie. Het verkrijgen van een green card is daarom helaas niet zo makkelijk als men vaak hoopt.
+</p>
 
-> Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
+<p>Als u (nog) niet permanent in de Verenigde Staten wilt wonen maar er wel tijdelijk wilt werken of stage wilt lopen, heeft u in bijna alle gevallen een werkvisum nodig. Er zijn hiervoor verschillende categorieën en iedere categorie heeft andere uitgangspunten, waardoor de voorwaarden en aanvraagprocedure van ieder visum significant kunnen verschillen.
+</p>
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+<p>Wilt u alleen op vakantie? Dan heeft u een ESTA reistoestemming nodig. Daarmee kunt u maximaal 90 dagen in de Verenigde Staten verblijven. Ook hiermee kunnen wij u helpen.
+</p>
+
+<p>Kijk hieronder voor meer informatie, of neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op.<p/>
+
+<p><strong>Bedrijven</strong><br/>
+
+Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning te krijgen, omdat bescherming van de arbeidsmarkt betekent dat staatsburgers en permanente inwoners van een land voorrang krijgen boven "buitenlanders", zijn er wel speciale faciliteiten ter bevordering van internationaal zaken doen. Wilt u werknemers uitzenden naar Canada? Klik dan hieronder op "personeel uitzenden" voor meer informatie, of neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op.</p>
