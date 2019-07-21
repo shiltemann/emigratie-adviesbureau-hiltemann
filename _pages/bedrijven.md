@@ -11,7 +11,7 @@ Voor bedrijven bieden wij
 
 
 <!-- Bedrijven paginas van ieder lands -->
-{% assign countries = "australie|canada|newzealand" | split: "|" %}
+{% assign countries = "australie|canada|nieuwzeeland|verenigdestaten" | split: "|" %}
 
 <section class="chapters cf">
   <div class="wrapper flex-row">
@@ -37,4 +37,3 @@ Voor bedrijven bieden wij
     {% endfor %}
   </div>
 </section> <!-- End Section Bedrijven per Country -->
-
