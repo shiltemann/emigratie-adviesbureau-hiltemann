@@ -3,7 +3,7 @@ layout: country
 title: "Verenigde Staten"
 country: verenigde-staten
 img: countries/USStatueOfLiberty3.jpg
---
+---
 
 <p><strong>Particulieren</strong><br/>
 
