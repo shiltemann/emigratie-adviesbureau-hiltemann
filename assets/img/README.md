@@ -4,7 +4,7 @@
 | File | Image  | origin | license |
 |------|--------|--------|---------|
 | `banner/USGoldenGateBridge.jpg` |Golden Gate Bridge | [Pixabay](https://pixabay.com/photos/panorama-california-2300806/) | Free for commercial use, no attribution required |
-| `banner/NZMilfordSound3`| Milford Sound |   |   |
+| `banner/milfordsound.jpg`| Milford Sound | [visuals NZ](https://visuals.newzealand.com/assets/2014?tags=Milford%20Sound)   |   |
 | `banner/AustraliaSydneySkyline.jpg` | Sydney Skyline | [Pixabay](https://pixabay.com/photos/sydney-opera-house-harbor-city-1518191/) | free for commercial use, no attribution required |
 | `banner/CanadaNaturebanner.jpg` | Canada Nature | | |
 | `banner/toronto-skyline.jpg`| Toronto Skyline | [Pixabay](https://pixabay.com/photos/canada-toronto-city-panorama-sky-3290310/)| |
