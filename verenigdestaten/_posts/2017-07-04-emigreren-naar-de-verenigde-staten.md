@@ -1,7 +1,7 @@
 ---
 layout: service
 title: "Emigreren"
-img: verenigdestaten/road-utah.jpg
+img: verenigdestaten/emigreren.jpg
 country: Verenigde Staten
 
 ---

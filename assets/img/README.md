@@ -60,10 +60,10 @@
 |------|--------------------------------|--------|---------|
 |road-utah| |[Pixabay](https://pixabay.com/photos/road-utah-rocks-wanderlust-travel-1958388/)||
 |monument-valley ||[Pixabay](https://pixabay.com/photos/monument-valley-utah-usa-red-53637/)||
+|werkvisum| |[Pixabay](https://pixabay.com/illustrations/man-notebook-new-york-businessman-1071769/)||
 
 # Other Pages
 
 | File | Image  | origin | license |
 |------|--------|--------|---------|
 |      | map with compass (contact page)| [hdwallpaperim.com](https://hdwallpaperim.com/map-compass-books/) |
-
