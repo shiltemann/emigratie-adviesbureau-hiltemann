@@ -20,24 +20,24 @@ layout: default
 
       {% if page.country %}
       <section class="chapters cf">
-          <div class="wrapper flex-row">
-              {% for post in site.categories[page.country] %}
-                <div class="chapter">
-                  <a href="{{post.url | prepend: site.baseurl}}">
-                    {% if post.img %}
-                      <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-                    {% endif %}
-                  </a>
-                  <a href="{{post.url | prepend: site.baseurl}}">
-                    <div class="service">
-                    <div class="chapter_inner">
-                      <h3 class="chapter_title">{{post.title}}</h3>
-                    </div>
-                    </div>
-                  </a>
+        <div class="wrapper flex-row">
+          {% for post in site.categories[page.country] %}
+
+            <div class="chapter">
+             <a href="{{post.url | prepend: site.baseurl}}">
+              {% if post.img %}
+              <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+              {% endif %}
+
+              <div class="service">
+                <div class="chapter_inner">
+                   <h3 class="chapter_title">{{post.title}}</h3>
                 </div>
-              {% endfor %}
+              </div>
+            </a>
           </div>
+          {% endfor %}
+        </div>
       </section>
       {% endif %}
     </div>
