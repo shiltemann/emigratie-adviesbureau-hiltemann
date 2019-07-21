@@ -2,7 +2,7 @@
 layout: country
 title: "Nieuw-Zeeland"
 country: nieuw-zeeland
-img: NZMilfordSound.jpg
+img: countries/NZMilfordSound.jpg
 ---
 
 <p><strong>Particulieren</strong><br/>
