@@ -3,8 +3,11 @@ layout: service
 title: "Personeel uitzenden"
 img: newzealand/auckland-skyline.jpg
 country: Nieuw Zeeland
-
+description: >
+  Heeft u een werkvisum voor uw werknemers? EAH helpt u bij het verkrijgen van
+  het juiste visum, zowel voor korte als langlopende projecten.
 ---
+
 <p><strong>Visum nodig of niet?</strong><br/>
 Voor een aantal gevallen van zakendoen in Nieuw-Zeeland is een werkvisum niet nodig, bijvoorbeeld wanneer het gaat om het bijwonen van een conferentie of contractonderhandelingen. Wanneer een werkvisum wel nodig is, biedt Nieuw-Zeeland verschillende mogelijkheden. Welk visum voor u of uw werknemer geschikt is hangt voornamelijk af van de duur van het werk en van het soort werk.
 </p>

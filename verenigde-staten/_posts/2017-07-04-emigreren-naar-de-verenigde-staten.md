@@ -3,7 +3,8 @@ layout: service
 title: "Emigreren"
 img: verenigdestaten/emigreren.jpg
 country: Verenigde Staten
-
+description: >
+  Wilt u emigreren naar de VS?
 ---
 <p>
 <strong>Emigreren naar de Verenigde Staten: de Green Card</strong><br/>

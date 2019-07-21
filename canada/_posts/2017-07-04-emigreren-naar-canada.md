@@ -3,7 +3,10 @@ layout: service
 title: "Emigreren"
 img: CanadaEmigreren2.jpg
 country: Canada
-
+description: >
+  Wilt u emigreren naar Canada? EAH biedt begeleiding bij het verkrijgen van
+  uw visum of verblijfsvergunning. Zowel voor gezinshereniging als werkvisum
+  voor werknemers via de beroepenlijst.
 ---
 <strong>Emigreren naar Canada via gezinshereniging</strong><br/>
 Canada biedt vrij uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging. Bent u getrouwd of woont u al minstens 1 jaar samen met iemand met de Canadese nationaliteit of met een Canadese permanente verblijfsvergunning? Dan kunt u door haar of hem gesponsord worden voor een permanente verblijfsvergunning ongeacht uw leeftijd, beroep of werkervaring. Wilt u meer weten over deze mogelijkheid, neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op.
