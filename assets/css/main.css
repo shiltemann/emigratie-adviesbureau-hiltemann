@@ -3965,7 +3965,7 @@ cite {
 
 .main_header .logo span {
   color: #c0334a;
-  font-weight: 400;
+  font-weight: 800;
 }
 
 
@@ -4133,6 +4133,7 @@ div.service {
   margin-bottom: 2rem;
   text-align: center;
   font-size: 3rem;
+  font-family: 'Bree';
 }
 
 .slogan {
@@ -4140,14 +4141,15 @@ div.service {
   font-style: italic;
   margin-bottom: 2rem;
   text-align: center;
-  font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
+  font-family: 'Charm',cursive;
+  font-size: 2rem;
 }
 
 #subslogan {
   color: white;
   font-style: italic;
   font-size: 1.5rem;
-
+  font-weight: 300;
 }
 
 @media (max-width: 800px) {
