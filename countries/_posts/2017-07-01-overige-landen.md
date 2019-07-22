@@ -9,4 +9,7 @@ description: >
 
 ---
 
-Voor overige bestemmingen biedt EAH adhoc op-maat advies en begeleiding. Neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op voor meer informatie.
+<p>Wat u allemaal moet regelen als u wilt emigreren, en wat uw mogelijkheden zijn, hangt af van het land van bestemming. EAH zoekt alles voor u uit en biedt op-maat advies en begeleiding. We stellen samen met u een traject en tarief vast.
+</p>
+
+Neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op voor meer informatie.
