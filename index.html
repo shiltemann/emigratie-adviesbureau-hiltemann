@@ -48,16 +48,15 @@ layout: main
       <h5> Heeft u interesse in een van onze diensten? Neem dan <a href="{{ site.baseurl }}/contact/">contact</a> met ons op. Of klik hieronder op het gewenste land voor meer informatie.</h5>
     </div>  <!-- End Section Services-->
 
-
-    <section class="chapters cf"> <!-- Country Pages -->
+    <!-- Section Country Pages -->
+    <section class="chapters cf">
       <div class="wrapper flex-row">
         {% for post in site.categories.countries %}
         <div class="chapter">
           <a href="{{post.url | prepend: site.baseurl}}">
             {% if post.img %}
-            <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-              <div class="country_inner"></div>
-            </img>
+            <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}"/>
+            <div class="country_inner"></div>
             {% endif %}
           </a>
           <a href="{{post.url | prepend: site.baseurl}}">
