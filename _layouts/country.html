@@ -3,47 +3,42 @@ layout: default
 ---
 {% include header.html %}
 
-
-<main class="post_content">
-  <article class="post">
-    <header>
-      <div class="post_image">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
-      </div>
-      <div class="post_description">
-        <h1 class="post_title">{{page.title}}</h1>
-      </div>
-    </header> <!-- End Header -->
-
-    <div class="entry_content">
-      {{ content }}
-
-      {% if page.country %}
-      <section class="chapters cf">
-        <div class="wrapper flex-row">
-          {% for post in site.categories[page.country] %}
-
-            <div class="chapter">
-             <a href="{{post.url | prepend: site.baseurl}}">
-              {% if post.img %}
-              <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-              {% endif %}
-
-              <div class="service">
-                <div class="chapter_inner">
-                   <h3 class="chapter_title">{{post.title}}</h3>
-                </div>
-              </div>
-            </a>
-          </div>
-          {% endfor %}
+  <main class="post_content">
+    <article class="post">
+      <header>
+        <div class="post_image">
+          <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
         </div>
-      </section>
-      {% endif %}
-    </div>
-  </article> <!-- End Main Article -->
+        <div class="post_description">
+          <h1 class="post_title">{{page.title}}</h1>
+        </div>
+      </header> <!-- End Header -->
+      <div class="entry_content">
+        {{ content }}
+        {% if page.country %}
+        <section class="chapters cf">
+          <div class="wrapper flex-row">
+            {% for post in site.categories[page.country] %}
+              <div class="chapter">
+               <a href="{{post.url | prepend: site.baseurl}}">
+                {% if post.img %}
+                <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+                {% endif %}
 
-  {% unless page.author == false %}{% include author.html %}{% endunless %}
-</main> <!-- End Section Post Content -->
+                <div class="service">
+                  <div class="chapter_inner">
+                     <h3 class="chapter_title">{{post.title}}</h3>
+                  </div>
+                </div>
+              </a>
+            </div>
+            {% endfor %}
+          </div>
+        </section>
+        {% endif %}
+      </div>
+    </article> <!-- End Main Article -->
+    {% unless page.author == false %}{% include author.html %}{% endunless %}
+  </main> <!-- End Section Post Content -->
 
 {% include footer.html %}
