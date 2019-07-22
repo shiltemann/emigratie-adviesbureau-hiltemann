@@ -3,7 +3,7 @@ layout: service
 title: "Personeel uitzenden"
 img: australia/melbourne.jpg
 country: Australië
-
+bedrijven: true
 ---
 <p><strong>Visum nodig of niet?</strong><br/>
 Voor een aantal gevallen van zakendoen in Australië is een werkvisum niet nodig, bijvoorbeeld wanneer het gaat om het bijwonen van een conferentie of contractonderhandelingen. Wanneer een werkvisum wel nodig is, biedt Australië verschillende mogelijkheden. Er is bijna altijd wel een passend visum te vinden. Welk visum voor u of uw werknemer geschikt is hangt voornamelijk af van de duur van het werk en van het soort werk.

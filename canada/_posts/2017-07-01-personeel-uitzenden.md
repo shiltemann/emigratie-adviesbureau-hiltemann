@@ -3,6 +3,7 @@ layout: service
 title: "Personeel uitzenden"
 img: CanadaVancouverSkyline.jpg
 country: Canada
+bedrijven: true
 description: >
   Heeft u een werkvisum nodig voor uw personeel? EAH biedt u advies
   en begeleiding bij het verkrijgen van de juiste vergunningen.

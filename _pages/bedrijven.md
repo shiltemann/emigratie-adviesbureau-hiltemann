@@ -19,7 +19,7 @@ Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning 
   <div class="wrapper flex-row">
     {% for country in countries %}
     {% for post in site.categories[country] %}
-    {% if post.title == "Personeel uitzenden" %}
+    {% if post.bedrijven %}
     <div class="chapter">
       <a href="{{post.url | prepend: site.baseurl}}">
         {% if post.img %}

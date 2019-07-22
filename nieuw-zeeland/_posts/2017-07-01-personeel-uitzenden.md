@@ -3,6 +3,7 @@ layout: service
 title: "Personeel uitzenden"
 img: newzealand/auckland-skyline.jpg
 country: Nieuw Zeeland
+bedrijven: true
 description: >
   Heeft u een werkvisum voor uw werknemers? EAH helpt u bij het verkrijgen van
   het juiste visum, zowel voor korte als langlopende projecten.
