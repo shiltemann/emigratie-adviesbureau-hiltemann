@@ -30,7 +30,7 @@ Om in deze categorie in aanmerking te komen moet u als investeerder minstens 1 m
 
 <p>
 <i>Via de Green Card loterij</i><br/>
-Elk jaar verloot de overheid van de Verenigde Staten wereldwijd 50.000 green cards onder iedereen die zich daarvoor heeft aangemeld. Aanmelden is makkelijk en gratis.
+Elk jaar verloot de overheid van de Verenigde Staten wereldwijd 50.000 green cards onder iedereen die zich daarvoor heeft aangemeld. Aanmelden is gratis, maar uw aanmelding moet wel aan bepaalde voorwaarden voldoen om kans te maken om te winnen. Wilt u meedoen met de Green Card Lottery? Neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op, dan kunnen wij alles voor u regelen.
 </p>
 
 <p>Wilt u weten of u in aanmerking komt voor een green card? Neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op. Wij beoordelen uw kansen en kunnen de gehele aanvraag voor u verzorgen.
