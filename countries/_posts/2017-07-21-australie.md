@@ -4,7 +4,7 @@ title: "Australië"
 country: australie
 img: countries/AustraliaSydneyOpera.jpg
 description: >
-  Wilt u emigreren of langere tijd verblijven in Australië"? EAH biedt advies en begeleiding bij
+  Wilt u emigreren of langere tijd verblijven in Australië? EAH biedt advies en begeleiding bij
   het verkrijgen van een toeristenvisum, working holiday visum, of permanente verblijfsvergunning
   voor Australië
 ---
