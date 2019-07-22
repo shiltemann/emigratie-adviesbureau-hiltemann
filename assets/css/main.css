@@ -4128,12 +4128,40 @@ div.service {
   font-size: 0.9rem;
 }
 
+.company {
+  color: rgba(192, 51, 74, 0.9);
+  margin-bottom: 2rem;
+  text-align: center;
+  font-size: 3rem;
+}
+
 .slogan {
   color: rgba(192, 51, 74, 0.9);
   font-style: italic;
   margin-bottom: 2rem;
+  text-align: center;
   font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive
 }
+
+#subslogan {
+  color: white;
+  font-style: italic;
+  font-size: 1.5rem;
+
+}
+
+@media (max-width: 800px) {
+   #subslogan {
+      display: none;
+   }
+   #banner .content {
+      display: none;
+   }
+   .carousel-control-next-icon, .carousel-control-prev {
+      display: none;
+   }
+}
+
 
 .chapters .country {
   position: absolute;
