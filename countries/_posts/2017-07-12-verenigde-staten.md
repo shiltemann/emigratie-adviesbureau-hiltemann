@@ -12,7 +12,7 @@ description: >
 
 <p><strong>Particulieren</strong><br/>
 
-De Verenigde Staten is een land dat al decennialang tot de verbeelding spreekt van mensen rondom de wereld. Emigreren naar de VS is dan ook voor velen een droom. De bekende <i>green card</i>, de Amerikaanse permanente verblijfsvergunning, wordt jaarlijks door miljoenen mensen aangevraagd. De overheid van de Verenigde Staten voert echter een vrij streng beleid wat betreft emigratie. Het verkrijgen van een green card is daarom helaas niet zo makkelijk als men vaak hoopt.
+De Verenigde Staten is een land dat al decennialang tot de verbeelding spreekt van mensen rondom de wereld. Emigreren naar de VS is dan ook voor velen een droom. De bekende <i>green card</i>, de Amerikaanse permanente verblijfsvergunning, wordt jaarlijks door miljoenen mensen aangevraagd. De overheid van de Verenigde Staten voert echter een vrij streng beleid wat betreft immigratie. Het verkrijgen van een green card is daarom helaas niet zo makkelijk als men vaak hoopt.
 </p>
 
 <p>Als u (nog) niet permanent in de Verenigde Staten wilt wonen maar er wel tijdelijk wilt werken of stage wilt lopen, heeft u in bijna alle gevallen een werkvisum nodig. Er zijn hiervoor verschillende categorieën en iedere categorie heeft andere uitgangspunten, waardoor de voorwaarden en aanvraagprocedure van ieder visum significant kunnen verschillen.
