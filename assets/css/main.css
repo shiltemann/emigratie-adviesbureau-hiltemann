@@ -4141,15 +4141,16 @@ div.service {
   font-style: italic;
   margin-bottom: 2rem;
   text-align: center;
-  font-family: 'Charm',cursive;
+  font-family: 'Charm', cursive;
   font-size: 2rem;
 }
 
 #subslogan {
   color: white;
   font-style: italic;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 300;
+  font-family: 'Charm', cursive;
 }
 
 @media (max-width: 800px) {
