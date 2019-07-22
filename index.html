@@ -2,65 +2,79 @@
 layout: main
 ---
 
-<div class="entry_content">
-  <section class="cf">
-    <div class="row text-center">
-      <div class="col-md-3 dienst">
-        <span class="fa-stack fa-3x">
-          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-          <i class="fa fa-check-circle fa-stack-1x fa-inverse"> </i>
-        </span>
-        <h4 class="service-heading">Visum Check</h4>
-        <p class="text-muted">Wilt u weten of u in aanmerking komt voor een visum? Stuur vrijblijvend uw CV op, en wij beoordelen uw kansen binnen 3 werkdagen.</p>
+    <div class="entry_content">
+      <section class="intro cf">
+        <h3 class="slogan"><a class="logo">EAH</a> - persoonlijke begeleiding tegen de laagste prijs</h3>
+        EAH zorgt al meer dan 20 jaar voor verantwoorde begeleiding van mensen die een visum nodig hebben om te werken, studeren of permanent te wonen in Australië, Canada, Nieuw-Zeeland, de Verenigde Staten, China, Japan en Taiwan. Voor zowel particulieren als bedrijven. Heeft u interesse in een ander land? Wij helpen u op weg en bieden op-maat advies.
+        </section>
+       <h5>EAH biedt de volgende diensten:</h5>
+    </div> <!-- End Intro Section -->
+
+    <div class="entry_content"> <!-- Services Section-->
+      <section class="cf">
+        <div class="row text-center">
+          <div class="col-md-3 dienst">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-check-circle fa-stack-1x fa-inverse"> </i>
+            </span>
+            <h4 class="service-heading">Visum Check</h4>
+            <p class="text-muted">Wilt u weten of u in aanmerking komt voor een visum? Stuur vrijblijvend uw CV op, en wij beoordelen uw kansen binnen 3 werkdagen.</p>
+          </div>
+
+          <div class="col-md-3">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-list-ol fa-stack-1x fa-inverse"> </i>
+            </span>
+            <h4 class="service-heading">Volledige Aanvraag</h4>
+            <p class="text-muted">Efficiënte begeleiding en een gerichte belangenbehartiging bij de visumaanvraag in het kader van de wetgeving van het betreffende land.</p>
+          </div>
+
+          <div class="col-md-3">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+             <i class="fa fa-building fa-stack-1x fa-inverse"> </i>
+            </span>
+            <h4 class="service-heading">Begeleiding voor Bedrijven</h4>
+            <p class="text-muted">Begeleiding bij zaken doen in het buitenland en bij het uitzenden van personeel.</p>
+          </div>
+
+          <div class="col-md-3">
+            <span class="fa-stack fa-3x">
+              <i class="fa fa-circle fa-stack-2x text-primary"></i>
+              <i class="fa fa-handshake-o fa-stack-1x fa-inverse"> </i>
+            </span>
+            <h4 class="service-heading">Advies op uurbasis</h4>
+            <p class="text-muted">Doet u de aanvraag liever zelf? Wij bieden ook op-maat begeleiding op uurbasis.</p>
+          </div>
+
+        </div>
+      </section>
+      <h5> Heeft u interesse in een van onze diensten? Neem dan <a href="{{ site.baseurl }}/contact/">contact</a> met ons op. Of klik hieronder op het gewenste land voor meer informatie.</h5>
+    </div>  <!-- End Section Services-->
+
+
+    <section class="chapters cf"> <!-- Country Pages -->
+      <div class="wrapper flex-row">
+        {% for post in site.categories.countries %}
+        <div class="chapter">
+          <a href="{{post.url | prepend: site.baseurl}}">
+            {% if post.img %}
+            <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
+              <div class="country_inner"></div>
+            </img>
+            {% endif %}
+          </a>
+          <a href="{{post.url | prepend: site.baseurl}}">
+            <div class="chapter_inner">
+              <h3 class="chapter_title">{{post.title}}</h3>
+            </div>
+          </a>
+        </div>
+        {% endfor %}
       </div>
+    </section> <!-- End Section Countries -->
 
-      <div class="col-md-3">
-        <span class="fa-stack fa-3x">
-          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-          <i class="fa fa-list-ol fa-stack-1x fa-inverse"> </i>
-        </span>
-        <h4 class="service-heading">Volledige Aanvraag</h4>
-        <p class="text-muted">Efficiënte begeleiding en een gerichte belangenbehartiging bij de visumaanvraag in het kader van de wetgeving van het betreffende land.</p>
-      </div>
 
-      <div class="col-md-3">
-        <span class="fa-stack fa-3x">
-          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-         <i class="fa fa-building fa-stack-1x fa-inverse"> </i>
-        </span>
-        <h4 class="service-heading">Begeleiding voor Bedrijven</h4>
-        <p class="text-muted">Begeleiding bij zaken doen in het buitenland en bij het uitzenden van personeel.</p>
-      </div>
 
-      <div class="col-md-3">
-        <span class="fa-stack fa-3x">
-          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-          <i class="fa fa-handshake-o fa-stack-1x fa-inverse"> </i>
-        </span>
-        <h4 class="service-heading">Advies op uurbasis</h4>
-        <p class="text-muted">Doet u de aanvraag liever zelf? Wij bieden ook op-maat begeleiding op uurbasis.</p>
-      </div>
-    </div>
-  </section> <!-- End Section Services-->
-
-  <p>
-  <h5> Heeft u interesse in een van onze diensten? Neem dan <a href="{{ site.baseurl }}/contact/">contact</a> met ons op. Of klik    hieronder op het gewenste land voor meer informatie.</h5>
-  </p>
-</div>
-
-{% for post in site.categories.countries %}
-<div class="chapter">
-  <a href="{{post.url | prepend: site.baseurl}}">
-    {% if post.img %}
-    <img src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
-      <div class="country_inner"></div>
-    </img>
-    {% endif %}
-  </a>
-  <a href="{{post.url | prepend: site.baseurl}}">
-    <div class="chapter_inner">
-      <h3 class="chapter_title">{{post.title}}</h3>
-    </div>
-  </a>
-</div>
-{% endfor %}
