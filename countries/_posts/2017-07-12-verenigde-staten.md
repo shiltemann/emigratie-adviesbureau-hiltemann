@@ -25,4 +25,4 @@ De Verenigde Staten is een land dat al decennialang tot de verbeelding spreekt v
 
 <p><strong>Bedrijven</strong><br/>
 
-Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning te krijgen, omdat bescherming van de arbeidsmarkt betekent dat staatsburgers en permanente inwoners van een land voorrang krijgen boven "buitenlanders", zijn er wel speciale faciliteiten ter bevordering van internationaal zaken doen. Wilt u werknemers uitzenden naar Canada? Klik dan hieronder op "personeel uitzenden" voor meer informatie, of neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op.</p>
+Waar het vaak moeilijk kan zijn voor particulieren om zomaar een werkvergunning te krijgen, omdat bescherming van de arbeidsmarkt betekent dat staatsburgers en permanente inwoners van een land voorrang krijgen boven "buitenlanders", zijn er wel speciale faciliteiten ter bevordering van internationaal zaken doen. Wilt u zaken doen of personeel uitzenden naar de Verenigde Staten? Klik dan hieronder op "zaken doen" voor meer informatie, of neem <a href="{{ site.baseurl }}/contact">contact</a> met ons op.</p>

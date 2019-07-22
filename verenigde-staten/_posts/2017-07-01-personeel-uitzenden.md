@@ -1,10 +1,10 @@
 ---
 layout: service
-title: "Personeel uitzenden"
+title: "Zaken doen"
 img: verenigdestaten/new-york.jpg
 country: Verenigde Staten
 description: >
-  Wilt u personeel uitzenden naar de VS? EAH helpt u bij het
+  Wilt u zaken doen of personeel uitzenden naar de VS? EAH helpt u bij het
   verkrijgen van het juiste visum voor uw situatie.
 ---
 <p><strong>Visum nodig of niet?</strong><br/>
