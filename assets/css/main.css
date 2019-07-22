@@ -4153,6 +4153,21 @@ div.service {
   font-family: 'Charm', cursive;
 }
 
+.backlinks {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+
+.backlinks a {
+  color: gray;
+  margin-left: 2rem;
+  margin-right: 2rem;
+  text-align: center;
+}
+
 @media (max-width: 800px) {
    #subslogan {
       display: none;

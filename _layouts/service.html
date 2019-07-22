@@ -18,6 +18,9 @@ layout: default
     <div class="entry_content">
       {{page.content | markdownify}}
     </div>
+    <div class="backlinks">
+      <a href="{{ site.baseurl }}/">Terug naar hoofdpagina</a>-<a href="{{ site.baseurl }}/countries/{{ page.categories }}">Terug naar {{ page.country }} pagina</a>
+    </div>
   </article> <!-- End Section Post -->
 
   {% include author.html %}
