@@ -3,7 +3,10 @@ layout: service
 title: "Emigreren"
 img: australia/uluru.jpg
 country: Australië
-
+description: >
+  Wilt u permanent in Australië gaan wonen? EAH begeleidt u bij de visum aanvraag.
+  Zowel voor verblijfsvergunningen op basis van gezinshereniging en als skilled worker
+  via het puntensysteem.
 ---
 <strong>Emigreren naar Australië via gezinshereniging</strong><br/>
 Australië biedt vrij uitgebreide mogelijkheden voor gezinsvorming en gezinshereniging. Bent u getrouwd of woont u al minstens 1 jaar samen met iemand met de Australische nationaliteit of met een Australische permanente verblijfsvergunning? Dan kunt u door haar of hem gesponsord worden voor een permanente verblijfsvergunning ongeacht uw leeftijd, beroep of werkervaring. Wilt u meer weten over deze mogelijkheid, neem dan <a href="{{ site.baseurl }}/contact">contact</a> met ons op.
