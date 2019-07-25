@@ -19,7 +19,16 @@ layout: default
       {{page.content | markdownify}}
     </div>
     <div class="backlinks">
-      <a href="{{ site.baseurl }}/">Terug naar hoofdpagina</a>-<a href="{{ site.baseurl }}/countries/{{ page.categories }}">Terug naar {{ page.country }} pagina</a>
+      {% if page.categories[0] == "canada" %}
+        {% assign icon = "fab fa-canadian-maple-leaf" %}
+      {% elsif page.categories[0] == "verenigde-staten" %}
+        {% assign icon = "fas fa-flag-usa" %}
+      {% elsif page.categories[0] == "nieuw-zeeland" %}
+         {% assign icon = "fas fa-kiwi-bird" %}
+      {% else %}
+         {% assign icon = "fas fa-level-up-alt" %}
+      {% endif %}
+      <a href="{{ site.baseurl }}/"><i class="fa fa-home"></i> Terug naar hoofdpagina</a>-<a href="{{ site.baseurl }}/countries/{{ page.categories }}"><i class="{{ icon }}"></i> Terug naar {{ page.country }} pagina</a>
     </div>
   </article> <!-- End Section Post -->
 
