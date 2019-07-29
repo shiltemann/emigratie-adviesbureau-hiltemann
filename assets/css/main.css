@@ -4542,6 +4542,10 @@ div.service {
   margin-right: 2rem;
 }
 
+.author_subtitle {
+  font-size: 0.9rem;
+}
+
 .author .author_image img {
   width: 100%;
 }
@@ -4551,7 +4555,7 @@ div.service {
 }
 
 .author .author_info .author_title {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   margin-top: 0;
   color: #262626;
 }
