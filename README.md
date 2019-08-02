@@ -7,6 +7,10 @@ master branch door een **pull request** te maken.
 Nadat de pull request gemerged is, delete je je branch weer, en begin je volgende
 keer weer met een nieuwe branch!
 
+Je kunt zoveel branches hebben als je wilt! Dus als je aan 2 verschillende
+updates wilt werken kun je ze in aparte branches doen, dan kun je de ene
+makkelijk mergen ook al is de andere nog niet klaar enzo
+
 
 ## Nieuwe branch beginnen
 
@@ -31,57 +35,7 @@ Nu kun je je aanpassingen maken, en met `git add`, `git commit`, `git push` eraa
 werken totdat je er blij mee bent (zie stukje naar onderen)
 
 
-## Pull request maken
-
-Als je klaar bent met je aanpassingen en het op de live site wil zetten, moet
-je een **pull request** maken:
-
-1. Ga naar https://github.com/shiltemann/emigratie-adviesbureau-hiltemann/compare
-2. Bovenaan zie je 2 knopjes, `base: master` en `compare: master`
-   - Verander `compare: master` naar je eigen branch naam
-3. Klik op Groene knop `Create Pull Request`
-4. In volgende scherm kun je een uitleg geven van wat je hebt gedaan enzo
-
-Nu kan ik het zien, eventueel dingen voorstellen, en het *mergen*. Bij mergen
-wordt de code uit je branch in de master branch neergezet (de master branch heeft
-de live site)
-
-
-## Pull request bekijken
-
-Heeft iemand anders een pull request gemaakt en wil je kijken hoe het eruit ziet
-voordat je merged?
-
-1. Vind de branch naam van de pull request (in GitHub in browser)
-   - Kijk bovenaan bij de pull request in github
-   - Daar staat zoiets als *JeAwesomeZus wants to merge 42 commits into master from <branchnaam>*
-   - Onthoud de `<branchnaam>`
-2. Ga naar je terminal
-   ```
-   git pull
-   git checkout <branchnaam van pull request>
-   ```
-3. Nu kun je met `jekyll serve` de locale preview maken
-
-Je kunt nu ook gewoon weer dingen committen en pushen, en deze komen dan vanzelf bij de
-pull request erbij.
-
-
-## Pull request mergen
-
-Als er een pull request is en je wilt de veranderingen eruit live zetten:
-
-1. Ga naar https://github.com/shiltemann/emigratie-adviesbureau-hiltemann/pulls
-2. Kies de goede pull request uit lijst
-   - Bij `files` tab in volgende scherm kun je nog eens bekijken wat er allemaal verandert is
-3. Klik onderaan op groene knop `Merge Pull Request`
-4. Doe een dansje
-
-Nu kan de branch weer gedelete worden (kan in het scherm nadat je gemerged hebt).
-De volgende keer dat je iets wilt veranderen maak je weer een helemaal nieuwe branch!
-
-
-# Local preview
+## Local website preview
 
 Om te kijken hoe je veranderingen eruit zien, kun je een local preview maken
 
@@ -106,7 +60,7 @@ Om te kijken hoe je veranderingen eruit zien, kun je een local preview maken
 
 
 
-## Preview stoppen
+### Preview stoppen
 
 In terminal window waar je `jekyll serve` hebt gedaan (en dus niet meer kunt typen)
 `CONTROL+C` typen om de preview te stoppen.
@@ -134,6 +88,64 @@ gecommit hebt kun je niet meer perongeluk deleten, dus doe het vaak!
    ```
    $ git push
    ```
+
+## Pull request maken
+
+Als je klaar bent met je aanpassingen en het op de live site wil zetten, moet
+je een **pull request** maken:
+
+1. Ga naar https://github.com/shiltemann/emigratie-adviesbureau-hiltemann/compare
+2. Bovenaan zie je 2 knopjes, `base: master` en `compare: master`
+   - Verander `compare: master` naar je eigen branch naam
+3. Klik op Groene knop `Create Pull Request`
+4. In volgende scherm kun je een uitleg geven van wat je hebt gedaan enzo
+
+Nu kan ik het zien, eventueel dingen voorstellen, en het *mergen*. Bij mergen
+wordt de code uit je branch in de master branch neergezet (de master branch heeft
+de live site)
+
+
+## Pull request bekijken
+
+Heeft iemand anders een pull request gemaakt en wil je kijken hoe het eruit ziet
+voordat je merged?
+
+1. Vind de branch naam van de pull request (in GitHub in browser)
+   - Kijk bovenaan bij de pull request in github
+   - Daar staat zoiets als `JeAwesomeZus wants to merge 42 commits into master from <branchnaam>`
+   - Onthoud de `<branchnaam>`
+2. Ga naar je terminal
+   ```
+   git pull
+   git checkout <branchnaam van pull request>
+   ```
+3. Nu kun je met `jekyll serve` de locale preview maken
+
+Je kunt nu ook gewoon weer dingen committen en pushen, en deze komen dan vanzelf bij de
+pull request erbij.
+
+
+Note: Als je hierna weer terug wilt naar een andere branch waar je aan aant werken was:
+
+```
+git checkout <branchnaam>
+```
+
+
+## Pull request mergen
+
+Als er een pull request is en je wilt de veranderingen eruit live zetten:
+
+1. Ga naar https://github.com/shiltemann/emigratie-adviesbureau-hiltemann/pulls
+2. Kies de goede pull request uit lijst
+   - Bij `files` tab in volgende scherm kun je nog eens bekijken wat er allemaal verandert is
+3. Klik onderaan op groene knop `Merge Pull Request`
+4. Doe een dansje
+
+Nu kan de branch weer gedelete worden (kan in het scherm nadat je gemerged hebt).
+De volgende keer dat je iets wilt veranderen maak je weer een helemaal nieuwe branch!
+
+
 
 ## Tips and Tricks
 
