@@ -189,18 +189,28 @@ $ git reset --hard
 Als je een merge conflict hebt
 
 1. Open de file waar het op gaat
-2. Zoek naar de `>>>>>>` symbolen
-   - dit zijn de stukjes waar git niet weet wat ie moet doen
+2. Zoek naar de `>>>>>>` etc symbolen
+   - Dit zijn de stukjes waar git niet weet wat ie moet doen
+   - Bijvoorbeeld:
+     ```
+     blabla en hella quinoa
+     <<<<<<< HEAD
+     vonnie is lief
+     =======
+     vonnie is gek
+     >>>>>>> branchnaam
+     ```
 3. Maak de file zoals je hem uiteindelijk wil hebben
+   - (dus `vonnie is gek` in dit voorbeeld)
 4. Voeg file toe met `git add`
 
 5. Herhaal stap 1-4 op alle files met een conflict
-6. Doe een `git commit`
+6. Doe een `git commit -m "merged the conflict bitches!"` om het te committen
 
 
 ### Git pull werkt niet
 
-Soms krijg je een bericht als "your changes in <file> would be overwritten by merge"
+Soms krijg je een bericht als `your changes in <file> would be overwritten by merge`
 Dit komt als je uncommitted changes in files lokaal hebt, die in de git pull ook
 zijn aangepast.
 
