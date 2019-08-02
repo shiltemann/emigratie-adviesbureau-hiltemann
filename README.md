@@ -189,12 +189,12 @@ $ git reset --hard
 Als je een merge conflict hebt
 
 1. Open de file waar het op gaat
-2. zoek naar de `>>>>>>` symbolen
-  - dit zijn de stukjes waar git niet weet wat ie moet doen
+2. Zoek naar de `>>>>>>` symbolen
+   - dit zijn de stukjes waar git niet weet wat ie moet doen
 3. Maak de file zoals je hem uiteindelijk wil hebben
 4. Voeg file toe met `git add`
 
-5. Herhaal 1-4 op alle files met een conflict
+5. Herhaal stap 1-4 op alle files met een conflict
 6. Doe een `git commit`
 
 
