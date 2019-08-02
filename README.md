@@ -1,9 +1,11 @@
 # Voor vontje
 
 De `master` branch is de live website, maar je kunt zelf andere branches maken
-om op te werken, zodra het klaar is kun je je eigen branch *mergen* met de
-master branch door een *pull request* te maken. Nadat de pull request gemerged
-is delete je je branch weer, en begin je volgende keer weer met een nieuwe branch!
+om op te werken, zodra het klaar is kun je je eigen branch **mergen** naar de
+master branch door een **pull request** te maken.
+
+Nadat de pull request gemerged is, delete je je branch weer, en begin je volgende
+keer weer met een nieuwe branch!
 
 
 ## Nieuwe branch beginnen
@@ -32,11 +34,11 @@ werken totdat je er blij mee bent (zie stukje naar onderen)
 ## Pull request maken
 
 Als je klaar bent met je aanpassingen en het op de live site wil zetten, moet
-je een *pull request* maken.
+je een **pull request** maken:
 
 1. Ga naar https://github.com/shiltemann/emigratie-adviesbureau-hiltemann/compare
 2. Bovenaan zie je 2 knopjes, `base: master` en `compare: master`
-  - Verander `compare: master` naar je eigen branch naam
+   - Verander `compare: master` naar je eigen branch naam
 3. Klik op Groene knop `Create Pull Request`
 4. In volgende scherm kun je een uitleg geven van wat je hebt gedaan enzo
 
@@ -45,12 +47,33 @@ wordt de code uit je branch in de master branch neergezet (de master branch heef
 de live site)
 
 
+## Pull request bekijken
+
+Heeft iemand anders een pull request gemaakt en wil je kijken hoe het eruit ziet
+voordat je merged?
+
+1. Vind de branch naam van de pull request (in GitHub in browser)
+   - Kijk bovenaan bij de pull request in github
+   - Daar staat zoiets als *JeAwesomeZus wants to merge 42 commits into master from <branchnaam>*
+   - Onthoud de `<branchnaam>`
+2. Ga naar je terminal
+   ```
+   git pull
+   git checkout <branchnaam van pull request>
+   ```
+3. Nu kun je met `jekyll serve` de locale preview maken
+
+Je kunt nu ook gewoon weer dingen committen en pushen, en deze komen dan vanzelf bij de
+pull request erbij.
+
+
 ## Pull request mergen
 
-Als er een pull request is en je wilt de veranderingen eruit live zetten
+Als er een pull request is en je wilt de veranderingen eruit live zetten:
 
 1. Ga naar https://github.com/shiltemann/emigratie-adviesbureau-hiltemann/pulls
-2. Kies pull request uit lijst
+2. Kies de goede pull request uit lijst
+   - Bij `files` tab in volgende scherm kun je nog eens bekijken wat er allemaal verandert is
 3. Klik onderaan op groene knop `Merge Pull Request`
 4. Doe een dansje
 
@@ -114,7 +137,19 @@ gecommit hebt kun je niet meer perongeluk deleten, dus doe het vaak!
 
 ## Tips and Tricks
 
-#### Wat is er veranderd aan een file?
+### Welke branches bestaan er?
+
+`git branch -v`
+
+die met het sterretje ervoor is je actieve branch
+
+
+### Van branch wisselen
+
+`git checkout <branchnaam>`
+
+
+### Wat is er veranderd aan een file?
 
 ```
 $ git diff <filenaam>
