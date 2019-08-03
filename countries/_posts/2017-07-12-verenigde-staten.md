@@ -1,12 +1,13 @@
 ---
 layout: country
 title: "Verenigde Staten"
+tagline: Visums voor de VS
 country: verenigde-staten
 img: countries/USStatueOfLiberty3.jpg
 description: >
   Visum nodig voor de Verenigde Staten? EAH helpt u bij het verkrijgen van het juiste visum
   voor vakanties (ESTA), werkvisums (ook voor stages) of een permanente verblijfsvergunning
-  (green card) voor het emigreren naar de VS.
+  (green card) voor Amerika.
 
 ---
 

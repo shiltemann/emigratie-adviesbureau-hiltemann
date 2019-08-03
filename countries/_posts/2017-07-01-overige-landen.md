@@ -1,6 +1,7 @@
 ---
 layout: country
 title: "Overige Landen"
+tagline: Visums voor diverse landen
 country: overige-landen
 img: countries/overigehanden.jpg
 description: >

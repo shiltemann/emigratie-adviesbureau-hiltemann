@@ -1,6 +1,7 @@
 ---
 layout: country
 title: "Nieuw-Zeeland"
+tagline: Visums voor Nieuw-Zeeland
 country: nieuw-zeeland
 img: countries/NZMilfordSound3.jpg
 description: >

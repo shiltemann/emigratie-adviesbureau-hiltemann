@@ -2,6 +2,7 @@
 layout: country
 title: "China & Taiwan"
 country: china-taiwan
+tagline: Visums voor China en Taiwan
 img: countries/ChinaShanghai.jpeg
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: country
 title: "Australië"
+tagline: Visums voor Australië
 country: australie
 img: countries/AustraliaSydneyOpera.jpg
 description: >
