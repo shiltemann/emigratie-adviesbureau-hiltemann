@@ -1,11 +1,37 @@
 <head>
+  {% if page.title %}
+    {% assign title = {{page.title}} - {{site.title}} %}
+  {% else %}
+    {% assign title = {{site.title}} %}
+  {% endif %}
+  {% if page.description %}
+    {% assign description = {{page.description}} %}
+  {% else %}
+    {% assign description = {{site.description}} %}
+  {% endif %}
+  {% if page.img %}
+    {% assign image = {{page.img}} %}
+  {% else %}
+    {% assign image = {{site.image}} %}
+  {% endif %}
   <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}} - {{site.title}}{% else %}{{site.title}}{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <title>{{title}}</title>
+  <meta name="description" content="{{description}}">
   <meta name="google-site-verification" content="3022VHbmOlsC6sYKoJ06kVI9cYpgcjWHPDK5JIAO_a4" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-  <meta property="og:image" content="">
+
+  <meta property="og:image" content="{{site.baseurl}}/assets/img/{{image}}">
+  <meta property="og:locale" content="nl_NL" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{title}}" />
+  <meta property="og:description" content="{{description}}" />
+  <meta property="og:url" content="{{page.url}}" />
+  <meta property="og:site_name" content="EAH" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:description" content="{{description}}" />
+  <meta name="twitter:title" content="{{title}}" />
+
   <link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
   <!-- Chrome, Firefox OS and Opera -->
   <meta name="theme-color" content="#d25469">
@@ -19,29 +45,41 @@
   <link rel="stylesheet" href="{{ "/assets/fonts/font-awesome/css/font-awesome.min.css" | prepend: site.baseurl }}">
   <!-- Styles -->
   <script src="https://kit.fontawesome.com/9f62164c5b.js"></script>
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <!-- local -->
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <!-- local -->
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
 
-    <script type="application/ld+json">
-    {
-      "@context" : "http://schema.org",
-      "@type" : "LocalBusiness",
-      "name" : "Emigratie Adviesbureau Hiltemann",
-      "telephone" : "+31 644 657 859",
-      "email" : "paulhiltemann@ziggo.nl",
-      "url" : "https://emigratie-adviesbureau-hiltemann.com/",
-      "address" : {
-        "@type" : "PostalAddress",
-        "streetAddress" : "Fretweide 27",
-        "addressLocality" : "Zoetermeer",
-        "addressCountry" : "Nederland",
-        "postalCode" : "2727HG"
-      }
-   }
-   </script>
+  <script type='application/ld+json'>
+  {
+    "@context" : "http://schema.org",
+    "@type" : "WebSite",
+    "@id" : "#website",
+    "url" : "https://emigratie-adviesbureau-hiltemann.com/",
+    "name" : "Emigratie Adviesbureau Hiltemann",
+    "image" : "{{site.baseurl}}/assets/img/{{image}}"
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context" : "http://schema.org",
+    "@type" : "LocalBusiness",
+    "name" : "Emigratie Adviesbureau Hiltemann",
+    "telephone" : "+31 644 657 859",
+    "email" : "paulhiltemann@ziggo.nl",
+    "url" : "https://emigratie-adviesbureau-hiltemann.com/",
+    "address" : {
+      "@type" : "PostalAddress",
+      "streetAddress" : "Fretweide 27",
+      "addressLocality" : "Zoetermeer",
+      "addressCountry" : "Nederland",
+      "postalCode" : "2727HG"
+    },
+    "image" : "{{site.baseurl}}/assets/img/{{image}}"
+  }
+  </script>
 </head>

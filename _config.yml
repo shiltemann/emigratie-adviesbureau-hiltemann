@@ -8,6 +8,7 @@ description: >
 permalink: '/:categories/:title/'
 baseurl: ""
 url: "https://www.emigratie-adviesbureau-hiltemann.com"
+image: leaving.jpg
 
 # Author settings
 author-pic: paulhiltemann.jpg
