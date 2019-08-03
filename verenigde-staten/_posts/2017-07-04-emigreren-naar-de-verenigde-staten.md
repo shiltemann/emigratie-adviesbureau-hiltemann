@@ -1,10 +1,11 @@
 ---
 layout: service
 title: "Emigreren"
+tagline: Emigreren naar Amerika
 img: verenigdestaten/emigreren.jpg
 country: Verenigde Staten
 description: >
-  Wilt u emigreren naar de VS? EAH helpt u bij het verkrijgen van een Green Card
+  Wilt u verhuizen naar de VS? EAH helpt u bij het verkrijgen van een Green Card
   (verblijfsvergunning). Dit kan op basis van gezinshereniging, werkaanbod,
   als investeerder, of via de Green Card Loterij.
 ---

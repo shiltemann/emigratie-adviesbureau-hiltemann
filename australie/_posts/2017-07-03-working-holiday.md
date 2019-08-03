@@ -2,6 +2,7 @@
 layout: service
 title: "Working Holiday"
 img: australia/koala.jpg
+tagline: Working Holiday in Australië
 country: Australië
 description: >
   Wilt u naar Australië voor een Working Holiday? EAH helpt u hierbij! Ideaal

@@ -1,6 +1,7 @@
 ---
 layout: service
 title: "Personeel uitzenden"
+tagline: Personeel uitzenden naar Nieuw-zeeland
 img: newzealand/auckland-skyline.jpg
 country: Nieuw-Zeeland
 bedrijven: true

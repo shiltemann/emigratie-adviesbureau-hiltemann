@@ -2,6 +2,7 @@
 layout: service
 title: "Personeel uitzenden"
 img: australia/melbourne.jpg
+tagline: Personeel uitzenden naar Australië
 country: Australië
 bedrijven: true
 description: >

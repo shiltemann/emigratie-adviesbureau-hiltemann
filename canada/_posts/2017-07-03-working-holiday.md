@@ -2,6 +2,7 @@
 layout: service
 title: "Working Holiday"
 img: canada/moose.jpg
+tagline: "Working Holiday in Canada"
 country: Canada
 description: >
   Wilt u stage lopen of tijdelijk werken in Canada? EAH helpt u bij het

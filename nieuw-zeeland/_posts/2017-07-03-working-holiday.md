@@ -1,6 +1,7 @@
 ---
 layout: service
 title: "Working Holiday"
+tagline: Working Holiday in Nieuw-Zeeland
 img: newzealand/sheep.jpg
 country: Nieuw-Zeeland
 description: >

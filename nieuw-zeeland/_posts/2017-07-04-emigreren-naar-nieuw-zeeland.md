@@ -1,11 +1,11 @@
 ---
 layout: service
 title: "Emigreren"
+tagline: Emigreren naar Nieuw-Zeeland
 img: newzealand/emigreren.jpg
 country: Nieuw-Zeeland
 description: >
-  EAH helpt u met het verkrijgen van het juiste visum als u wilt emigreren
-  naar Nieuw-Zeeland. Zowel op basis van gezinshereniging als via de skilled
+  Wilt u verhuizen naar Nieuw-Zeeland? EAH helpt u met het verkrijgen van het juiste visum. Zowel op basis van gezinshereniging als via de skilled
   worker met en beroep op de beroepenlijst.
 
 ---

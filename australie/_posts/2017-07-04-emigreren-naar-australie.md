@@ -2,9 +2,10 @@
 layout: service
 title: "Emigreren"
 img: australia/uluru.jpg
+tagline: Emigreren naar Australië
 country: Australië
 description: >
-  Wilt u permanent in Australië gaan wonen? EAH begeleidt u bij de visum aanvraag.
+  Wilt verhuizen naar Australië? EAH begeleidt u bij de visum aanvraag.
   Zowel voor verblijfsvergunningen op basis van gezinshereniging en als skilled worker
   via het puntensysteem.
 ---

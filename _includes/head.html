@@ -1,5 +1,7 @@
 <head>
-  {% if page.title %}
+  {% if page.tagline %}
+    {% assign title = {{page.tagline}} %}
+  {% elsif page.title %}
     {% assign title = {{page.title}} - {{site.title}} %}
   {% else %}
     {% assign title = {{site.title}} %}

@@ -1,11 +1,12 @@
 ---
 layout: service
 title: "Werkvisum"
+tagline: Werkvisum voor de Verenigde Staten
 img: verenigdestaten/werkvisum.jpg
 country: Verenigde Staten
 description: >
   Heeft u een werkvisum nodig voor de VS? EAH helpt u bij de aanvraag.
-  zowel voor korte en langdurige projecten.
+  zowel voor korte en langdurige projecten in Amerika.
 ---
 
 <p>Om in de Verenigde Staten te mogen werken of stage lopen heeft u in bijna alle gevallen een werkvisum nodig. Er zijn hiervoor verschillende categorieën en iedere categorie heeft andere uitgangspunten, waardoor de voorwaarden en aanvraagprocedure van ieder visum significant kunnen verschillen. Welk visum voor u het meest geschikt is, is daarom afhankelijk van uw specifieke situatie. Vanwege het hoge aantal aanmeldingen dat wij jaarlijks krijgen voor hulp bij het aanvragen van deze visums, werken wij hiervoor samen met een partnerbedrijf. Zo kunnen wij u samen op een snelle en efficiënte manier helpen aan het visum dat voor u het meest geschikt is.

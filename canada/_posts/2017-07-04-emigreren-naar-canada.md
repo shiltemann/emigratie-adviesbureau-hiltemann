@@ -2,9 +2,10 @@
 layout: service
 title: "Emigreren"
 img: CanadaEmigreren2.jpg
+tagline: Emigreren naar Canada
 country: Canada
 description: >
-  Wilt u emigreren naar Canada? EAH biedt begeleiding bij het verkrijgen van
+  Wilt u verhuizen naar Canada? EAH biedt begeleiding bij het verkrijgen van
   uw visum of verblijfsvergunning. Zowel voor gezinshereniging als werkvisum
   voor werknemers via de beroepenlijst.
 ---

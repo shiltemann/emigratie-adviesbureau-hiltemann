@@ -1,6 +1,7 @@
 ---
 layout: service
 title: "Zaken doen"
+tagline: Zaken doen in Amerika
 img: verenigdestaten/new-york.jpg
 country: Verenigde Staten
 bedrijven: true

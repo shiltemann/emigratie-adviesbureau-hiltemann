@@ -1,6 +1,7 @@
 ---
 layout: service
 title: "Personeel uitzenden"
+tagline: "Personeel uitzenden naar Canada"
 img: CanadaVancouverSkyline.jpg
 country: Canada
 bedrijven: true
