@@ -1,6 +1,7 @@
 ---
 layout: country
 title: "Bedrijven"
+tagline: Visums voor Bedrijven
 country: bedrijven
 img: Bedrijven.jpg
 description: EAH helpt bedrijven bij het verkrijgen van het juiste visum om zaken te doen in het buitenland of personeel uit te zenden.
